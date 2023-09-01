@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-do-mai_20775.html",
+    "title" : "Tam Độ Mai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 11408,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_411d28b4ae1731b1a2c58a10f019f4b3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_411d28b4ae1731b1a2c58a10f019f4b3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tam-do-mai (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tam-do-mai (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tam-do-mai (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tam-do-mai (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tam-do-mai (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tam-do-mai (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_1.mp3",
+    "title" : "tam-do-mai (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_2.mp3",
+    "title" : "tam-do-mai (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_3.mp3",
+    "title" : "tam-do-mai (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_4.mp3",
+    "title" : "tam-do-mai (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_5.mp3",
+    "title" : "tam-do-mai (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_411d28b4ae1731b1a2c58a10f019f4b3_ffa452bce7d36539d5411b6ad2fd25c2_6.mp3",
+    "title" : "tam-do-mai (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
