@@ -1,0 +1,353 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/diep-vien-giua-sa-mac-lua_14428.html",
+    "title" : "Điệp Viên Giữa Sa Mạc Lửa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhị Hồ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 71232,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_83c098832f628b044b9baeba0cbca3a6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_83c098832f628b044b9baeba0cbca3a6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2383,
+    "title" : "Truyện tình báo Điệp viên giữa sa mạc lửa -P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1978,
+    "title" : "P10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3418,
+    "title" : "P11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3441,
+    "title" : "P12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2765,
+    "title" : "P13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "P14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4353,
+    "title" : "P15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2128,
+    "title" : "P16A",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2614,
+    "title" : "P16B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "P17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2421,
+    "title" : "P18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2055,
+    "title" : "P19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "P20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1660,
+    "title" : "P21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2295,
+    "title" : "P22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2464,
+    "title" : "P23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2434,
+    "title" : "P24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2610,
+    "title" : "P25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2078,
+    "title" : "P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2347,
+    "title" : "P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2586,
+    "title" : "P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4154,
+    "title" : "P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "P8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4556,
+    "title" : "P9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/1.mp3",
+    "title" : "Truyện tình báo Điệp viên giữa sa mạc lửa -P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/10.mp3",
+    "title" : "P10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/11.mp3",
+    "title" : "P11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/12.mp3",
+    "title" : "P12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/13.mp3",
+    "title" : "P13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/14.mp3",
+    "title" : "P14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/15.mp3",
+    "title" : "P15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/16.mp3",
+    "title" : "P16A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/17.mp3",
+    "title" : "P16B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/18.mp3",
+    "title" : "P17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/19.mp3",
+    "title" : "P18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/2.mp3",
+    "title" : "P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/20.mp3",
+    "title" : "P19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/21.mp3",
+    "title" : "P20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/22.mp3",
+    "title" : "P21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/23.mp3",
+    "title" : "P22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/24.mp3",
+    "title" : "P23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/25.mp3",
+    "title" : "P24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/26.mp3",
+    "title" : "P25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/3.mp3",
+    "title" : "P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/4.mp3",
+    "title" : "P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/5.mp3",
+    "title" : "P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/6.mp3",
+    "title" : "P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/7.mp3",
+    "title" : "P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/8.mp3",
+    "title" : "P8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/diep-vien-giua-sa-mac-lua/9.mp3",
+    "title" : "P9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
