@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/6-buoc-tien-toi-thu-nhap-6-con-so_20711.html",
+    "title" : "6 Bước Tiến Tới Thu Nhập 6 Con Số",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Peter Voogd",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 10472,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_326ffd5231e692be222e5b439b00c4e4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_326ffd5231e692be222e5b439b00c4e4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_4868fc53ed998f8df5756ecd8e618a29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_ae21fc71392e398453f242e12ab22454.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2264,
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_4868fc53ed998f8df5756ecd8e618a29.mp3",
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_1.mp3",
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_2.mp3",
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_1.mp3",
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_2.mp3",
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_ae21fc71392e398453f242e12ab22454.mp3",
+    "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
