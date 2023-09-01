@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lac-duong_20714.html",
+    "title" : "Lạc Đường",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 28988,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_ece0b8dcb9ac0c7a5cdeb33b281f76ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_ece0b8dcb9ac0c7a5cdeb33b281f76ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 1 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Phần 2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_1.mp3",
+    "title" : "Phần 1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_2.mp3",
+    "title" : "Phần 1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_3.mp3",
+    "title" : "Phần 1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_4.mp3",
+    "title" : "Phần 1 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_1.mp3",
+    "title" : "Phần 2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_2.mp3",
+    "title" : "Phần 2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_3.mp3",
+    "title" : "Phần 2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_4.mp3",
+    "title" : "Phần 2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_1.mp3",
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_2.mp3",
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_3.mp3",
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_4.mp3",
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_5.mp3",
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_6.mp3",
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
