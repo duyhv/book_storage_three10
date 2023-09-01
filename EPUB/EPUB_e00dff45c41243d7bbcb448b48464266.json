@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phep-la-cua-su-tinh-thuc_19257.html",
+    "title" : "Phép Lạ Của Sự Tỉnh Thức",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 11969,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_e00dff45c41243d7bbcb448b48464266.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_e00dff45c41243d7bbcb448b48464266.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phep-la-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phep-la-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phep-la-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phep-la-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phep-la-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "phep-la-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_1.mp3",
+    "title" : "phep-la-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_2.mp3",
+    "title" : "phep-la-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_1.mp3",
+    "title" : "phep-la-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_2.mp3",
+    "title" : "phep-la-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_1.mp3",
+    "title" : "phep-la-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_2.mp3",
+    "title" : "phep-la-3 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
