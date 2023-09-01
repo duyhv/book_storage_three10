@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thuong-yeu-theo-phuong-phap-but-day_19258.html",
+    "title" : "Thương Yêu Theo Phương Pháp Bụt Dạy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-24",
+    "duration" : 15897,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_988a7176752e1eae57a67754cd24a60a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_988a7176752e1eae57a67754cd24a60a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-3 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "thuong-yeu-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_1.mp3",
+    "title" : "thuong-yeu-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_2.mp3",
+    "title" : "thuong-yeu-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_3.mp3",
+    "title" : "thuong-yeu-1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_1.mp3",
+    "title" : "thuong-yeu-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_2.mp3",
+    "title" : "thuong-yeu-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_3.mp3",
+    "title" : "thuong-yeu-2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_1.mp3",
+    "title" : "thuong-yeu-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_2.mp3",
+    "title" : "thuong-yeu-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_3.mp3",
+    "title" : "thuong-yeu-3 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_1.mp3",
+    "title" : "thuong-yeu-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_2.mp3",
+    "title" : "thuong-yeu-4 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
