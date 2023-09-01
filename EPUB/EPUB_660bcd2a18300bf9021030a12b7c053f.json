@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_660bcd2a18300bf9021030a12b7c053f.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_660bcd2a18300bf9021030a12b7c053f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_660bcd2a18300bf9021030a12b7c053f.jpeg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_660bcd2a18300bf9021030a12b7c053f.jpeg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_3c4d91c4ec3ca8a656cb61d54ef8dd4f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_3c4d91c4ec3ca8a656cb61d54ef8dd4f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6493,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_1.mp3",
     "title" : "AUDIOBOOK - TUỔI 20 YÊU THƯƠNG - KEN HONDA (FULL VERSION) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_02bbd30558fd05a16161aa0c9f9be393_2.mp3",
     "title" : "AUDIOBOOK - TUỔI 20 YÊU THƯƠNG - KEN HONDA (FULL VERSION) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_1.mp3",
     "title" : "AudioBook - Tuổi 30 hoài bão - Ken Honda (Full Version) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_9a2a0a1aaabe698a07874cbf4b31e051_2.mp3",
     "title" : "AudioBook - Tuổi 30 hoài bão - Ken Honda (Full Version) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_1.mp3",
     "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_ee3d4767aa6d9f062a89c7bc113332ee_2.mp3",
     "title" : "Audiobook - Tuổi 20 nhiệt huyết - Ken Honda (Full version) (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_3c4d91c4ec3ca8a656cb61d54ef8dd4f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_660bcd2a18300bf9021030a12b7c053f_3c4d91c4ec3ca8a656cb61d54ef8dd4f.mp3",
     "title" : "Audiobook - Tuổi 40 trải nghiệm - Ken Honda - Full",
     "children" : [ ]
   } ],

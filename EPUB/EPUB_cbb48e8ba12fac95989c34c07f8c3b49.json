@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_cbb48e8ba12fac95989c34c07f8c3b49.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_cbb48e8ba12fac95989c34c07f8c3b49.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_cbb48e8ba12fac95989c34c07f8c3b49.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_cbb48e8ba12fac95989c34c07f8c3b49.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_552d43d2e22fe44fd4d5c8d5183754c8.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_552d43d2e22fe44fd4d5c8d5183754c8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4235,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_e16233eb835dc58891f6d7e06f8efe9b.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_e16233eb835dc58891f6d7e06f8efe9b.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4200,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_bfc68081dfdb1c8337b52e07a7079472.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_bfc68081dfdb1c8337b52e07a7079472.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_cec7b1abfd4da712e18ea2b500150b22.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_cec7b1abfd4da712e18ea2b500150b22.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_995c8a8ebac0e94cf71269270e8bef72.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_995c8a8ebac0e94cf71269270e8bef72.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_7f6dd35dc448f95590bec381661a916b.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_7f6dd35dc448f95590bec381661a916b.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c6ebdca4d26281cc41126644b88fc985.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c6ebdca4d26281cc41126644b88fc985.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_552d43d2e22fe44fd4d5c8d5183754c8.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_552d43d2e22fe44fd4d5c8d5183754c8.mp3",
     "title" : "1 - Tiểu Thuyết Hay của Nhà Văn Đoạt Giải Nobel Mạc Ngôn",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_e16233eb835dc58891f6d7e06f8efe9b.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_e16233eb835dc58891f6d7e06f8efe9b.mp3",
     "title" : "2 - Chân phải trước, Chân trái sau",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_bfc68081dfdb1c8337b52e07a7079472.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_bfc68081dfdb1c8337b52e07a7079472.mp3",
     "title" : "3 - Chuyện cũ không bao giờ trở lại",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_cec7b1abfd4da712e18ea2b500150b22.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_cec7b1abfd4da712e18ea2b500150b22.mp3",
     "title" : "4 - Người Đàn Ông Kỳ Lạ",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_995c8a8ebac0e94cf71269270e8bef72.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_995c8a8ebac0e94cf71269270e8bef72.mp3",
     "title" : "5 - Kỳ Tích của Tạo Hóa",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_7f6dd35dc448f95590bec381661a916b.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_7f6dd35dc448f95590bec381661a916b.mp3",
     "title" : "6 - Buồn Vui Lẫn Lộn",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c6ebdca4d26281cc41126644b88fc985.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c6ebdca4d26281cc41126644b88fc985.mp3",
     "title" : "7 - Hiệp hội gào thét Thành phố Nam giang",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_1.mp3",
     "title" : "8 - Tôi không mắc lừa các anh nữa (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_c9c922f2f449277329cc8a15cbc0a03b_2.mp3",
     "title" : "8 - Tôi không mắc lừa các anh nữa (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_1.mp3",
     "title" : "9 - Đường ai nấy đi (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_cbb48e8ba12fac95989c34c07f8c3b49_d0aa1688364e50741d8de62475f90661_2.mp3",
     "title" : "9 - Đường ai nấy đi (2)",
     "children" : [ ]
   } ],

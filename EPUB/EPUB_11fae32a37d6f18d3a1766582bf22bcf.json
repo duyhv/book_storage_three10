@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_11fae32a37d6f18d3a1766582bf22bcf.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_11fae32a37d6f18d3a1766582bf22bcf.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_11fae32a37d6f18d3a1766582bf22bcf.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_11fae32a37d6f18d3a1766582bf22bcf.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_931d8702de58b99ba2143cde10b2cbf9.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_931d8702de58b99ba2143cde10b2cbf9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2460,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_d9c1ab0a1d9ed965f5e0d478f4069850.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_d9c1ab0a1d9ed965f5e0d478f4069850.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2622,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_83cc848040f0666342acbe595260e396.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_83cc848040f0666342acbe595260e396.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2843,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_90cee8d1c4e7b901dacde0bc32b41306.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_90cee8d1c4e7b901dacde0bc32b41306.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2442,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_931d8702de58b99ba2143cde10b2cbf9.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_931d8702de58b99ba2143cde10b2cbf9.mp3",
     "title" : "VIEC LANG 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_d9c1ab0a1d9ed965f5e0d478f4069850.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_d9c1ab0a1d9ed965f5e0d478f4069850.mp3",
     "title" : "VIEC LANG 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_83cc848040f0666342acbe595260e396.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_83cc848040f0666342acbe595260e396.mp3",
     "title" : "VIEC LANG 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_90cee8d1c4e7b901dacde0bc32b41306.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_11fae32a37d6f18d3a1766582bf22bcf_90cee8d1c4e7b901dacde0bc32b41306.mp3",
     "title" : "VIEC LANG 04",
     "children" : [ ]
   } ],

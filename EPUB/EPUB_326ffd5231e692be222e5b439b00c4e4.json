@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_326ffd5231e692be222e5b439b00c4e4.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_326ffd5231e692be222e5b439b00c4e4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_326ffd5231e692be222e5b439b00c4e4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_326ffd5231e692be222e5b439b00c4e4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_4868fc53ed998f8df5756ecd8e618a29.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_4868fc53ed998f8df5756ecd8e618a29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2000,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_ae21fc71392e398453f242e12ab22454.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_ae21fc71392e398453f242e12ab22454.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2264,
@@ -85,27 +85,27 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_4868fc53ed998f8df5756ecd8e618a29.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_4868fc53ed998f8df5756ecd8e618a29.mp3",
     "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_1.mp3",
     "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_1ef4ac92aab67a6b1edb74a9634b8b6f_2.mp3",
     "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 2 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_1.mp3",
     "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 3 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_63ef31215a38ec9e5d2643d1ebd646ea_2.mp3",
     "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 3 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_ae21fc71392e398453f242e12ab22454.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_326ffd5231e692be222e5b439b00c4e4_ae21fc71392e398453f242e12ab22454.mp3",
     "title" : "6 BƯỚC KIẾM TRIỆU ĐÔ. PHẦN 4",
     "children" : [ ]
   } ],

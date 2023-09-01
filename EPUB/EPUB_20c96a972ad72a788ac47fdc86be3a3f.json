@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_20c96a972ad72a788ac47fdc86be3a3f.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_20c96a972ad72a788ac47fdc86be3a3f.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_20c96a972ad72a788ac47fdc86be3a3f.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_20c96a972ad72a788ac47fdc86be3a3f.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 0,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_1.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_1.mp3",
     "title" : "The Gioi Phang - Thomas Friedman (1)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_2.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_2.mp3",
     "title" : "The Gioi Phang - Thomas Friedman (2)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_3.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_20c96a972ad72a788ac47fdc86be3a3f_f9952d6a518a19baf18146cd06936f45_3.mp3",
     "title" : "The Gioi Phang - Thomas Friedman (3)",
     "children" : [ ]
   } ],

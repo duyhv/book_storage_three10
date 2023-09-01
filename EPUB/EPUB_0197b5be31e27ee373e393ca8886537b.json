@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_0197b5be31e27ee373e393ca8886537b.json",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_0197b5be31e27ee373e393ca8886537b.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_0197b5be31e27ee373e393ca8886537b.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_0197b5be31e27ee373e393ca8886537b.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_74a8d0a7212ce923ea4b76bcefb70e0f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_74a8d0a7212ce923ea4b76bcefb70e0f.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 335,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_510328c3023afb79e23e8f2e847ed74c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_510328c3023afb79e23e8f2e847ed74c.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 358,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_b8396555d0fe6c8a7e6726ca80b3565e.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_b8396555d0fe6c8a7e6726ca80b3565e.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 803,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_90196037bb8738b35d3427eeaa021027.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_90196037bb8738b35d3427eeaa021027.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 714,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_74a8d0a7212ce923ea4b76bcefb70e0f.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_74a8d0a7212ce923ea4b76bcefb70e0f.mp3",
     "title" : "01-CoTien",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_510328c3023afb79e23e8f2e847ed74c.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_510328c3023afb79e23e8f2e847ed74c.mp3",
     "title" : "02-NguonGocThoVanTrieuNguyen",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_b8396555d0fe6c8a7e6726ca80b3565e.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_b8396555d0fe6c8a7e6726ca80b3565e.mp3",
     "title" : "03-PhongThuyLaGi",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_90196037bb8738b35d3427eeaa021027.mp3",
+    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_0197b5be31e27ee373e393ca8886537b_90196037bb8738b35d3427eeaa021027.mp3",
     "title" : "04-YNghiaMoiHuong",
     "children" : [ ]
   } ],
