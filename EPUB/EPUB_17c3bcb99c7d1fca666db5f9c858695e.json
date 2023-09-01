@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-doanh-nhan-8x-ban-tre-lam-giau_16988.html",
+    "title" : "Những Doanh Nhân 8X - Bạn Trẻ Làm Giàu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Nhơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-26",
+    "duration" : 5395,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_17c3bcb99c7d1fca666db5f9c858695e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_17c3bcb99c7d1fca666db5f9c858695e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_a74cdc07762a380dccd1b98350ea58c4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1102,
+    "title" : "DoanhNhan8xLamGiau 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_c6ffb51b42def4a4a6bcadd107a8843c.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1227,
+    "title" : "DoanhNhan8xLamGiau 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_4a6b5b1fd1281b7c0b2c242ecb2b0c20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1210,
+    "title" : "DoanhNhan8xLamGiau 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_2ac565379b70564cab50fe591f8dd308.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1092,
+    "title" : "DoanhNhan8xLamGiau 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_9938f206f9f8589a6bb016e68e1d610f.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 764,
+    "title" : "DoanhNhan8xLamGiau 05",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_a74cdc07762a380dccd1b98350ea58c4.mp3",
+    "title" : "DoanhNhan8xLamGiau 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_c6ffb51b42def4a4a6bcadd107a8843c.mp3",
+    "title" : "DoanhNhan8xLamGiau 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_4a6b5b1fd1281b7c0b2c242ecb2b0c20.mp3",
+    "title" : "DoanhNhan8xLamGiau 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_2ac565379b70564cab50fe591f8dd308.mp3",
+    "title" : "DoanhNhan8xLamGiau 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_17c3bcb99c7d1fca666db5f9c858695e_9938f206f9f8589a6bb016e68e1d610f.mp3",
+    "title" : "DoanhNhan8xLamGiau 05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
