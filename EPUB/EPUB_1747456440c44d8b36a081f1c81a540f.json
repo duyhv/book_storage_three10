@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hieu-nang-cham-ngon-cua-nha-doanh-nghiep_19472.html",
+    "title" : "Hiệu Năng - Châm Ngôn Của Nhà Doanh Nghiệp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-22",
+    "duration" : 11341,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_1747456440c44d8b36a081f1c81a540f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_1747456440c44d8b36a081f1c81a540f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_d25463daf9a9e8ad3727cc8fe3356d74_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hieu-nang-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_d25463daf9a9e8ad3727cc8fe3356d74_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hieu-nang-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_81633205d2af3abcb86eed1c5c974f8d_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hieu-nang-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_81633205d2af3abcb86eed1c5c974f8d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "hieu-nang-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_a0de124bde8f21aca0207ec5259b657b.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3541,
+    "title" : "hieu-nang-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_d25463daf9a9e8ad3727cc8fe3356d74_1.mp3",
+    "title" : "hieu-nang-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_d25463daf9a9e8ad3727cc8fe3356d74_2.mp3",
+    "title" : "hieu-nang-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_81633205d2af3abcb86eed1c5c974f8d_1.mp3",
+    "title" : "hieu-nang-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_81633205d2af3abcb86eed1c5c974f8d_2.mp3",
+    "title" : "hieu-nang-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage8/main/AUDIO/AUDIO_1747456440c44d8b36a081f1c81a540f_a0de124bde8f21aca0207ec5259b657b.mp3",
+    "title" : "hieu-nang-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
