@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mon-qua-den-sau-nhung-con-mua_20682.html",
+    "title" : "Món Quà Đến Sau Những Cơn Mưa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-05",
+    "duration" : 19302,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_803388fe6e006d1e928aabd315d14385.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_803388fe6e006d1e928aabd315d14385.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_e48f3cf98316ebb4ddc5533951723874_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_e48f3cf98316ebb4ddc5533951723874_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_d3e9503a0f03800d0ff85d817dd9aa49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2135,
+    "title" : "mon-qua-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_87f3876f5a9abc36d9076863bf3a58af_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_87f3876f5a9abc36d9076863bf3a58af_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_c6604d862b3bc6d0d9cc7c230079c2a2_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_c6604d862b3bc6d0d9cc7c230079c2a2_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-4 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_ce183cf5913de27995ac75d8043d7ff4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2548,
+    "title" : "mon-qua-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_fd51e8c4e98410622faee70ae9a622de.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "mon-qua-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_67ae3f7a36f1d1e6b73604565fe86e8e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-7 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_67ae3f7a36f1d1e6b73604565fe86e8e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "mon-qua-7 (2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_e48f3cf98316ebb4ddc5533951723874_1.mp3",
+    "title" : "mon-qua-1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_e48f3cf98316ebb4ddc5533951723874_2.mp3",
+    "title" : "mon-qua-1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_d3e9503a0f03800d0ff85d817dd9aa49.mp3",
+    "title" : "mon-qua-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_87f3876f5a9abc36d9076863bf3a58af_1.mp3",
+    "title" : "mon-qua-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_87f3876f5a9abc36d9076863bf3a58af_2.mp3",
+    "title" : "mon-qua-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_c6604d862b3bc6d0d9cc7c230079c2a2_1.mp3",
+    "title" : "mon-qua-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_c6604d862b3bc6d0d9cc7c230079c2a2_2.mp3",
+    "title" : "mon-qua-4 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_ce183cf5913de27995ac75d8043d7ff4.mp3",
+    "title" : "mon-qua-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_fd51e8c4e98410622faee70ae9a622de.mp3",
+    "title" : "mon-qua-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_67ae3f7a36f1d1e6b73604565fe86e8e_1.mp3",
+    "title" : "mon-qua-7 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_803388fe6e006d1e928aabd315d14385_67ae3f7a36f1d1e6b73604565fe86e8e_2.mp3",
+    "title" : "mon-qua-7 (2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

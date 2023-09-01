@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/kinh-duoc-su_19845.html",
+    "title" : "Kinh Dược Sư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-19",
+    "duration" : 1695,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_7f456da8aa7ef7d58eae80ac45bbeb29.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_7f456da8aa7ef7d58eae80ac45bbeb29.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7f456da8aa7ef7d58eae80ac45bbeb29_1547b0c4ec618a616ccec401098ef2bd.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1695,
+    "title" : "y2mate.com - KINH DƯỢC SƯ  KẺ TRỘM HƯƠNG",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7f456da8aa7ef7d58eae80ac45bbeb29_1547b0c4ec618a616ccec401098ef2bd.mp3",
+    "title" : "y2mate.com - KINH DƯỢC SƯ  KẺ TRỘM HƯƠNG",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
