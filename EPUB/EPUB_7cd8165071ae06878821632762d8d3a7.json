@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lao-hat-rong-ngam-khuc-trang-ca_20666.html",
+    "title" : "Lão Hát Rong Ngâm Khúc Tráng Ca",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Văn Sang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-31",
+    "duration" : 18065,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_7cd8165071ae06878821632762d8d3a7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_7cd8165071ae06878821632762d8d3a7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7511a75e89728878d4e265a0258d63cd.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 945,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_77d9d870771e6147a69b667d27c47764.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1799,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_197eddc9a4d46785b8565dede6590d07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_74cd3de8d3a14da8101103d6a6eca6b7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1963,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_98696857df21caece571811d69e6707d.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1797,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_8df0f5fd4a3d902364005b162967bfcb.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1877,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7c881473d39a73deefdbb1f7c559466e.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1931,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_505a8f60f79a03ea1f88c659998182b0.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2260,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 09",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7511a75e89728878d4e265a0258d63cd.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_77d9d870771e6147a69b667d27c47764.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_1.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_2.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_197eddc9a4d46785b8565dede6590d07.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_74cd3de8d3a14da8101103d6a6eca6b7.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_98696857df21caece571811d69e6707d.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_8df0f5fd4a3d902364005b162967bfcb.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7c881473d39a73deefdbb1f7c559466e.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_505a8f60f79a03ea1f88c659998182b0.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 09",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
