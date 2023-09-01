@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://radiotruyen.info/sach-noi/38-buc-thu-cua-ty-phu-rockefeller-gui-cho-con-trai.html",
+    "title" : "38 Bức Thư Của Tỷ Phú Rockefeller Gửi Cho Con Trai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John D. Rockefeller",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "Trong cuốn sách “38 bức thư John D. Rockefeller gửi cho con trai”, ông trùm dầu mỏ John D. Rockefeller, là người giàu nhất trong lịch sử thế giới với giá trị tài sản hơn 1 tỷ USD kể lại con đường sự nghiệp của mình từ một nhân viên ghi chép sổ sách nhỏ bé. Cho dù đến hiện tại, tài sản của ông cũng nhiều hơn gấp ba lần Bill Gates. Những số tài sản này đều do ông bắt đầu từ một nhân viên ghi chép sổ sách nhỏ bé, từng bước từng bước kinh doanh mà có.",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-08-06",
+    "duration" : 10929,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_6b74e91fd10958c12e31107261738c6e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_6b74e91fd10958c12e31107261738c6e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_f01ebf036dd4c49739b3c88f4f45406e_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P1 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_f01ebf036dd4c49739b3c88f4f45406e_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P1 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_f01ebf036dd4c49739b3c88f4f45406e_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P1 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "P2 (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_6b55af756153107a5abd3c0ceb4ae8b6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "P3 (End)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_f01ebf036dd4c49739b3c88f4f45406e_1.mp3",
+    "title" : "P1 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_f01ebf036dd4c49739b3c88f4f45406e_2.mp3",
+    "title" : "P1 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_f01ebf036dd4c49739b3c88f4f45406e_3.mp3",
+    "title" : "P1 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_1.mp3",
+    "title" : "P2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_2.mp3",
+    "title" : "P2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_3.mp3",
+    "title" : "P2 (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_4ba603c311757912a00147e1889c8daf_4.mp3",
+    "title" : "P2 (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage10/main/AUDIO/AUDIO_6b74e91fd10958c12e31107261738c6e_6b55af756153107a5abd3c0ceb4ae8b6.mp3",
+    "title" : "P3 (End)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
