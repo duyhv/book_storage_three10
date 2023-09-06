@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
-    "duration" : 7692,
+    "published" : "2023-09-06",
+    "duration" : 11396,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_02e3b13242d1d71394b678991a9b61a6.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_02e3b13242d1d71394b678991a9b61a6.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_02e3b13242d1d71394b678991a9b61a6.gif",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_02e3b13242d1d71394b678991a9b61a6.gif",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_02e3b13242d1d71394b678991a9b61a6_9fbad75022d39d3365acf2e2e5107b38.mp3",
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3704,
@@ -44,33 +44,21 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_02e3b13242d1d71394b678991a9b61a6_d3338ba19f6485c561222927fa6ed95b_1.mp3",
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doi-tho-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_02e3b13242d1d71394b678991a9b61a6_d3338ba19f6485c561222927fa6ed95b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "doi-tho-2 (2)",
+    "duration" : 3988,
+    "title" : "doi-tho-2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_02e3b13242d1d71394b678991a9b61a6_9fbad75022d39d3365acf2e2e5107b38.mp3",
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-1.mp3",
     "title" : "doi-tho-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_02e3b13242d1d71394b678991a9b61a6_d3338ba19f6485c561222927fa6ed95b_1.mp3",
-    "title" : "doi-tho-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_02e3b13242d1d71394b678991a9b61a6_d3338ba19f6485c561222927fa6ed95b_2.mp3",
-    "title" : "doi-tho-2 (2)",
+    "href" : "https://archive.org/download/doi-tho-2/doi-tho-2.mp3",
+    "title" : "doi-tho-2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

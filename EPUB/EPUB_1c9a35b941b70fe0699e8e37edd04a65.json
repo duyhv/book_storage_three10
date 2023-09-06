@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 15760,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,135 +26,75 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_1c9a35b941b70fe0699e8e37edd04a65.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_1c9a35b941b70fe0699e8e37edd04a65.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_1c9a35b941b70fe0699e8e37edd04a65.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_1c9a35b941b70fe0699e8e37edd04a65.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_77f8bca34fcec6600ded202f2d670144_1.mp3",
+    "href" : "https://archive.org/download/cha-3/cha-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-1 (1)",
+    "duration" : 3447,
+    "title" : "cha-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_77f8bca34fcec6600ded202f2d670144_2.mp3",
+    "href" : "https://archive.org/download/cha-3/cha-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-1 (2)",
+    "duration" : 2983,
+    "title" : "cha-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_6ab52837a59de1d7161569e9e0deaeb2_1.mp3",
+    "href" : "https://archive.org/download/cha-3/cha-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-2 (1)",
+    "duration" : 3497,
+    "title" : "cha-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_6ab52837a59de1d7161569e9e0deaeb2_2.mp3",
+    "href" : "https://archive.org/download/cha-3/cha-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-2 (2)",
+    "duration" : 2582,
+    "title" : "cha-4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_9c1403b9c9578fac74f88dae82d923d0_1.mp3",
+    "href" : "https://archive.org/download/cha-3/cha-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_9c1403b9c9578fac74f88dae82d923d0_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_3a020b8749bda02fe75fcba9b43a8c9d_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_3a020b8749bda02fe75fcba9b43a8c9d_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_5bd78bff5dcb8e0665219cde1caa9406_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_5bd78bff5dcb8e0665219cde1caa9406_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "cha-5 (2)",
+    "duration" : 3251,
+    "title" : "cha-5",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_77f8bca34fcec6600ded202f2d670144_1.mp3",
-    "title" : "cha-1 (1)",
+    "href" : "https://archive.org/download/cha-3/cha-1.mp3",
+    "title" : "cha-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_77f8bca34fcec6600ded202f2d670144_2.mp3",
-    "title" : "cha-1 (2)",
+    "href" : "https://archive.org/download/cha-3/cha-2.mp3",
+    "title" : "cha-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_6ab52837a59de1d7161569e9e0deaeb2_1.mp3",
-    "title" : "cha-2 (1)",
+    "href" : "https://archive.org/download/cha-3/cha-3.mp3",
+    "title" : "cha-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_6ab52837a59de1d7161569e9e0deaeb2_2.mp3",
-    "title" : "cha-2 (2)",
+    "href" : "https://archive.org/download/cha-3/cha-4.mp3",
+    "title" : "cha-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_9c1403b9c9578fac74f88dae82d923d0_1.mp3",
-    "title" : "cha-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_9c1403b9c9578fac74f88dae82d923d0_2.mp3",
-    "title" : "cha-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_3a020b8749bda02fe75fcba9b43a8c9d_1.mp3",
-    "title" : "cha-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_3a020b8749bda02fe75fcba9b43a8c9d_2.mp3",
-    "title" : "cha-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_5bd78bff5dcb8e0665219cde1caa9406_1.mp3",
-    "title" : "cha-5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1c9a35b941b70fe0699e8e37edd04a65_5bd78bff5dcb8e0665219cde1caa9406_2.mp3",
-    "title" : "cha-5 (2)",
+    "href" : "https://archive.org/download/cha-3/cha-5.mp3",
+    "title" : "cha-5",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

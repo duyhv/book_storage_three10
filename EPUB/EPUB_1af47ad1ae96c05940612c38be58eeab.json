@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 21912,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,135 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_1af47ad1ae96c05940612c38be58eeab.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_1af47ad1ae96c05940612c38be58eeab.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_1af47ad1ae96c05940612c38be58eeab.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_1af47ad1ae96c05940612c38be58eeab.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_e5a7e8cf2da7a04f0ca708e93bf3b086_1.mp3",
+    "href" : "https://archive.org/download/tuong-ta-1/tuong-ta-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn (1)",
+    "duration" : 8232,
+    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_e5a7e8cf2da7a04f0ca708e93bf3b086_2.mp3",
+    "href" : "https://archive.org/download/tuong-ta-1/tuong-ta-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn (2)",
+    "duration" : 7573,
+    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_e5a7e8cf2da7a04f0ca708e93bf3b086_3.mp3",
+    "href" : "https://archive.org/download/tuong-ta-1/tuong-ta-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_282d6396ff5ec6e7736dc2418165ffd4_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_282d6396ff5ec6e7736dc2418165ffd4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_282d6396ff5ec6e7736dc2418165ffd4_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn (3)",
+    "duration" : 6107,
+    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_e5a7e8cf2da7a04f0ca708e93bf3b086_1.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn (1)",
+    "href" : "https://archive.org/download/tuong-ta-1/tuong-ta-1.mp3",
+    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_e5a7e8cf2da7a04f0ca708e93bf3b086_2.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn (2)",
+    "href" : "https://archive.org/download/tuong-ta-1/tuong-ta-2.mp3",
+    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_e5a7e8cf2da7a04f0ca708e93bf3b086_3.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 01 | Giải Mã Lịch Sử | Mai Nguyễn (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_1.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_2.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_3.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_afaba19f6be8c1601981f39584c36fbc_4.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 02 | Giải Mã Lịch Sử | Mai Nguyễn (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_282d6396ff5ec6e7736dc2418165ffd4_1.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_282d6396ff5ec6e7736dc2418165ffd4_2.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_1af47ad1ae96c05940612c38be58eeab_282d6396ff5ec6e7736dc2418165ffd4_3.mp3",
-    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn (3)",
+    "href" : "https://archive.org/download/tuong-ta-1/tuong-ta-3.mp3",
+    "title" : "(Trọn Bộ) HỒI KÝ TƯỚNG TÁ SÀI GÒN Ở HẢI NGOẠI Phần 03 | Giải Mã Lịch Sử | Mai Nguyễn",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
