@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 44468,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,459 +26,219 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_430625f7497f715df5c40ca279b68dbc.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_430625f7497f715df5c40ca279b68dbc.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_430625f7497f715df5c40ca279b68dbc.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_430625f7497f715df5c40ca279b68dbc.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_66c3a5389010136743a2f5a8563331bf_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1 (1)",
+    "duration" : 2983,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_66c3a5389010136743a2f5a8563331bf_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1 (2)",
+    "duration" : 2531,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t10",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_66c3a5389010136743a2f5a8563331bf_3.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1 (3)",
+    "duration" : 2138,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t11",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d8aae72a580fa085ba39b7bf5530f7cd_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t10 (1)",
+    "duration" : 2509,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t12",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d8aae72a580fa085ba39b7bf5530f7cd_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t10 (2)",
+    "duration" : 2390,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t13",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_eea509203ac2d956ea36bc9f95b9b59c_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t11 (1)",
+    "duration" : 2674,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t14",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_eea509203ac2d956ea36bc9f95b9b59c_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t11 (2)",
+    "duration" : 2823,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t15",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_4a0b06973556b62f9448cc3d0a78bdff_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t12 (1)",
+    "duration" : 2854,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t16",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_4a0b06973556b62f9448cc3d0a78bdff_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t17end.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t12 (2)",
+    "duration" : 3201,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_db8bac19159ff4245a2764cca6148ef4_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t13 (1)",
+    "duration" : 2743,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_db8bac19159ff4245a2764cca6148ef4_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t13 (2)",
+    "duration" : 2610,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_5a80988144016759afcd1e44ef37ab2c_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t14 (1)",
+    "duration" : 2955,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_5a80988144016759afcd1e44ef37ab2c_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t14 (2)",
+    "duration" : 2544,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t5",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d2ceef71f6ade7f0cf91e99e31d99924_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t15 (1)",
+    "duration" : 2385,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t6",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d2ceef71f6ade7f0cf91e99e31d99924_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t15 (2)",
+    "duration" : 2263,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t7",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_43d925893eec7b2c6eeb8328ab662927_1.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t16 (1)",
+    "duration" : 2617,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t8",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_43d925893eec7b2c6eeb8328ab662927_2.mp3",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t16 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_03b34d7bd178d10b0f9e07152e212cba_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_03b34d7bd178d10b0f9e07152e212cba_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_03b34d7bd178d10b0f9e07152e212cba_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_f9f4b6389431b010de9ce2a2fb099fca_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_f9f4b6389431b010de9ce2a2fb099fca_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_58438d913ee840ddeb697482ff0f9269_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_58438d913ee840ddeb697482ff0f9269_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_3bc7676712c96677b9a6f7cac120386b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_3bc7676712c96677b9a6f7cac120386b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_3bc7676712c96677b9a6f7cac120386b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_a30243ab719c640263ac3de879bacbe2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t5 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_a30243ab719c640263ac3de879bacbe2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t5 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_6401415c23293e57b11573af5d9969e8_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t6 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_6401415c23293e57b11573af5d9969e8_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t6 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_ba23876457e6df9fca1633e124778c1b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t7 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_ba23876457e6df9fca1633e124778c1b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t7 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_1b6970bea4011253d923c1b325efde86_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t8 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_1b6970bea4011253d923c1b325efde86_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t8 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_78e3507da43d65061f7b011febc3f4e5_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t9 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_78e3507da43d65061f7b011febc3f4e5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t9 (2)",
+    "duration" : 2248,
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t9",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_66c3a5389010136743a2f5a8563331bf_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t1.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_66c3a5389010136743a2f5a8563331bf_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t10.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t10",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_66c3a5389010136743a2f5a8563331bf_3.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t1 (3)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t11.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t11",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d8aae72a580fa085ba39b7bf5530f7cd_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t10 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t12.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t12",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d8aae72a580fa085ba39b7bf5530f7cd_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t10 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t13.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t13",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_eea509203ac2d956ea36bc9f95b9b59c_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t11 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t14.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t14",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_eea509203ac2d956ea36bc9f95b9b59c_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t11 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t15.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t15",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_4a0b06973556b62f9448cc3d0a78bdff_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t12 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t16.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t16",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_4a0b06973556b62f9448cc3d0a78bdff_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t12 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t17end.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_db8bac19159ff4245a2764cca6148ef4_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t13 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t2.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_db8bac19159ff4245a2764cca6148ef4_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t13 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t3.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_5a80988144016759afcd1e44ef37ab2c_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t14 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t4.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_5a80988144016759afcd1e44ef37ab2c_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t14 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t5.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d2ceef71f6ade7f0cf91e99e31d99924_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t15 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t6.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_d2ceef71f6ade7f0cf91e99e31d99924_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t15 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t7.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_43d925893eec7b2c6eeb8328ab662927_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t16 (1)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t8.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_43d925893eec7b2c6eeb8328ab662927_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t16 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_03b34d7bd178d10b0f9e07152e212cba_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_03b34d7bd178d10b0f9e07152e212cba_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_03b34d7bd178d10b0f9e07152e212cba_3.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t17end (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_f9f4b6389431b010de9ce2a2fb099fca_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_f9f4b6389431b010de9ce2a2fb099fca_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_58438d913ee840ddeb697482ff0f9269_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_58438d913ee840ddeb697482ff0f9269_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_3bc7676712c96677b9a6f7cac120386b_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_3bc7676712c96677b9a6f7cac120386b_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_3bc7676712c96677b9a6f7cac120386b_3.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t4 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_a30243ab719c640263ac3de879bacbe2_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t5 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_a30243ab719c640263ac3de879bacbe2_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t5 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_6401415c23293e57b11573af5d9969e8_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t6 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_6401415c23293e57b11573af5d9969e8_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t6 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_ba23876457e6df9fca1633e124778c1b_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t7 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_ba23876457e6df9fca1633e124778c1b_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t7 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_1b6970bea4011253d923c1b325efde86_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t8 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_1b6970bea4011253d923c1b325efde86_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t8 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_78e3507da43d65061f7b011febc3f4e5_1.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t9 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_430625f7497f715df5c40ca279b68dbc_78e3507da43d65061f7b011febc3f4e5_2.mp3",
-    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t9 (2)",
+    "href" : "https://archive.org/download/nhung-canh-hoa-lac-loai-danielle-steel.sna/nhung-canh-hoa-lac-loai-danielle-steel_t9.mp3",
+    "title" : "nhung-canh-hoa-lac-loai-danielle-steel t9",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

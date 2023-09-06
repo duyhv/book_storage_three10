@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 11969,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,87 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_e00dff45c41243d7bbcb448b48464266.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_e00dff45c41243d7bbcb448b48464266.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_e00dff45c41243d7bbcb448b48464266.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_e00dff45c41243d7bbcb448b48464266.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_1.mp3",
+    "href" : "https://archive.org/download/phep-la-1/phep-la-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-la-1 (1)",
+    "duration" : 4200,
+    "title" : "phep-la-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_2.mp3",
+    "href" : "https://archive.org/download/phep-la-1/phep-la-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-la-1 (2)",
+    "duration" : 4200,
+    "title" : "phep-la-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_1.mp3",
+    "href" : "https://archive.org/download/phep-la-1/phep-la-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-la-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-la-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-la-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "phep-la-3 (2)",
+    "duration" : 3569,
+    "title" : "phep-la-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_1.mp3",
-    "title" : "phep-la-1 (1)",
+    "href" : "https://archive.org/download/phep-la-1/phep-la-1.mp3",
+    "title" : "phep-la-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_2dc063db1e4190fd196cb25fa90065a0_2.mp3",
-    "title" : "phep-la-1 (2)",
+    "href" : "https://archive.org/download/phep-la-1/phep-la-2.mp3",
+    "title" : "phep-la-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_1.mp3",
-    "title" : "phep-la-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_56498cb6398176529861fab108663143_2.mp3",
-    "title" : "phep-la-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_1.mp3",
-    "title" : "phep-la-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage9/main/AUDIO/AUDIO_e00dff45c41243d7bbcb448b48464266_6f1480be51ccaa8e4571a88c3423cf1e_2.mp3",
-    "title" : "phep-la-3 (2)",
+    "href" : "https://archive.org/download/phep-la-1/phep-la-3.mp3",
+    "title" : "phep-la-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

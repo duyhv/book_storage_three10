@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-24",
+    "published" : "2023-09-06",
     "duration" : 15897,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,147 +26,63 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_988a7176752e1eae57a67754cd24a60a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_988a7176752e1eae57a67754cd24a60a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_988a7176752e1eae57a67754cd24a60a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_988a7176752e1eae57a67754cd24a60a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_1.mp3",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-1 (1)",
+    "duration" : 4200,
+    "title" : "thuong-yeu-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_2.mp3",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-1 (2)",
+    "duration" : 4200,
+    "title" : "thuong-yeu-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_3.mp3",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-1 (3)",
+    "duration" : 4200,
+    "title" : "thuong-yeu-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_1.mp3",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-3 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "thuong-yeu-4 (2)",
+    "duration" : 3297,
+    "title" : "thuong-yeu-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_1.mp3",
-    "title" : "thuong-yeu-1 (1)",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-1.mp3",
+    "title" : "thuong-yeu-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_2.mp3",
-    "title" : "thuong-yeu-1 (2)",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-2.mp3",
+    "title" : "thuong-yeu-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_4b2795b43bcfb3018a2a35525d22f9ee_3.mp3",
-    "title" : "thuong-yeu-1 (3)",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-3.mp3",
+    "title" : "thuong-yeu-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_1.mp3",
-    "title" : "thuong-yeu-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_2.mp3",
-    "title" : "thuong-yeu-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0b8c4070f1a63cadc4583e5cd07efe1e_3.mp3",
-    "title" : "thuong-yeu-2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_1.mp3",
-    "title" : "thuong-yeu-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_2.mp3",
-    "title" : "thuong-yeu-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_0e2e54dd7e62ad7d9c0d1b90546aca44_3.mp3",
-    "title" : "thuong-yeu-3 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_1.mp3",
-    "title" : "thuong-yeu-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_988a7176752e1eae57a67754cd24a60a_dbb30f9d1fefe72509cbf6f0bad4d638_2.mp3",
-    "title" : "thuong-yeu-4 (2)",
+    "href" : "https://archive.org/download/thuong-yeu-1/thuong-yeu-4.mp3",
+    "title" : "thuong-yeu-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-29",
-    "duration" : 18409,
+    "published" : "2023-09-06",
+    "duration" : 36818,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_5f3d707f23b59aaa2d3ff67bd48ac9c9.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_5f3d707f23b59aaa2d3ff67bd48ac9c9.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_5f3d707f23b59aaa2d3ff67bd48ac9c9.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_5f3d707f23b59aaa2d3ff67bd48ac9c9.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_3cb1419065310628fb9599c3373f1d1f.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/00.GIO%CC%9B%CC%81I%20THIE%CC%A3%CC%82U%20-%20TRUYE%CC%A3%CC%82N%20AUDIO%20-%20TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 50,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_b8ca703957d22ff1f04db2af2178a3f6.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2001%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1898,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_6dc178e92946b458a0fd2c6a9e90e8df.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1840,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_df5174eebf8a7b3f1b7800d0d8440da2.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2003%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1900,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_11c32a3e934affd7740ae5de7519e99b.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2004%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1931,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_2ecba1bfd5bf169caa31b89f64522fc9.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2005%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1868,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_d74ab31a391286812c0cb8f0a2cb967c.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2006%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1666,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_e00808150d3a5f2345b4de1d95075079.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2007%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1795,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_49356c2a175cb5b95233adf9b2d7a50d.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2008%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1565,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_e39e6b389a3d6eb1f296c122fce6efa5.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2009%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1810,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_be7b6971e6cf380e053f3286f9056a52.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2010%20-%20KE%CC%82%CC%81T%20THU%CC%81C%20QUYE%CC%82%CC%89N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2086,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_3cb1419065310628fb9599c3373f1d1f.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/00.GIO%CC%9B%CC%81I%20THIE%CC%A3%CC%82U%20-%20TRUYE%CC%A3%CC%82N%20AUDIO%20-%20TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "00.GIỚI THIỆU - TRUYỆN AUDIO - TỨ BÌNH PHONG   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p...",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_b8ca703957d22ff1f04db2af2178a3f6.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2001%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 01   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_6dc178e92946b458a0fd2c6a9e90e8df.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 02   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_df5174eebf8a7b3f1b7800d0d8440da2.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2003%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 03   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_11c32a3e934affd7740ae5de7519e99b.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2004%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 04   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_2ecba1bfd5bf169caa31b89f64522fc9.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2005%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 05   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_d74ab31a391286812c0cb8f0a2cb967c.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2006%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 06   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_e00808150d3a5f2345b4de1d95075079.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2007%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 07   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_49356c2a175cb5b95233adf9b2d7a50d.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2008%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 08   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_e39e6b389a3d6eb1f296c122fce6efa5.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2009%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 09   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_5f3d707f23b59aaa2d3ff67bd48ac9c9_be7b6971e6cf380e053f3286f9056a52.mp3",
+    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2010%20-%20KE%CC%82%CC%81T%20THU%CC%81C%20QUYE%CC%82%CC%89N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
     "title" : "TỨ BÌNH PHONG - PHẦN 10 - KẾT THÚC QUYỂN 02   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p...",
     "children" : [ ]
   } ],

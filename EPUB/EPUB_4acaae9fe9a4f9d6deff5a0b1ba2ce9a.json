@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 18558,
+    "published" : "2023-09-06",
+    "duration" : 37116,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_4acaae9fe9a4f9d6deff5a0b1ba2ce9a.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_4acaae9fe9a4f9d6deff5a0b1ba2ce9a.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_4acaae9fe9a4f9d6deff5a0b1ba2ce9a.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_4acaae9fe9a4f9d6deff5a0b1ba2ce9a.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_5213cf458d0f61fb10dc3398a938c4d8.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4024,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_49af8bd28b65c8ccc54bd48d9e0adba1.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3241,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_38f793b293633aab2fa72efa4ead6e54.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3187,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_bff0b5bb27e3c831c75edff7b7ec8bb9.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3506,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_e61da60fd42f38b387c4dba879738b16.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4600,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_5213cf458d0f61fb10dc3398a938c4d8.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_49af8bd28b65c8ccc54bd48d9e0adba1.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_38f793b293633aab2fa72efa4ead6e54.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/3.mp3",
     "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_bff0b5bb27e3c831c75edff7b7ec8bb9.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/4.mp3",
     "title" : "4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_4acaae9fe9a4f9d6deff5a0b1ba2ce9a_e61da60fd42f38b387c4dba879738b16.mp3",
+    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/5.mp3",
     "title" : "5",
     "children" : [ ]
   } ],

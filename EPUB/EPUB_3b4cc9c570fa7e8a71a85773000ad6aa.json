@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-07",
-    "duration" : 19041,
+    "published" : "2023-09-06",
+    "duration" : 38082,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_3b4cc9c570fa7e8a71a85773000ad6aa.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_3b4cc9c570fa7e8a71a85773000ad6aa.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_3b4cc9c570fa7e8a71a85773000ad6aa.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_3b4cc9c570fa7e8a71a85773000ad6aa.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_b47b6c24ca81676c07fdde84f0a5702b.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1995,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_3ad82e31bfe4e0888a8d7881d834e614.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1865,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_dbb1c096722f0b4d0f1083d719c68ac1.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2031,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_d2428ebe247f67c14253e5c40acf7ca6.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1888,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_8bd3569ccffc62d5723d956eb59c922c.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1813,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_7c1ad1008cd6f17c097fe5a174d9c991.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1885,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_44ac319d6ff18850371858623b6c3fbe.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2152,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_9d3c549838825e6dda9bb8f17ce45747.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2187,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_78caa328be3a07f203fb1c1560fb9f76.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2087,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_8d36d6564f8f368b3634780a97768904.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1138,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_b47b6c24ca81676c07fdde84f0a5702b.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_01.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_3ad82e31bfe4e0888a8d7881d834e614.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_02.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_dbb1c096722f0b4d0f1083d719c68ac1.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_03.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_d2428ebe247f67c14253e5c40acf7ca6.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_04.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_8bd3569ccffc62d5723d956eb59c922c.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_05.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_7c1ad1008cd6f17c097fe5a174d9c991.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_06.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_44ac319d6ff18850371858623b6c3fbe.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_07.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_9d3c549838825e6dda9bb8f17ce45747.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_08.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_78caa328be3a07f203fb1c1560fb9f76.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_09.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 09",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_3b4cc9c570fa7e8a71a85773000ad6aa_8d36d6564f8f368b3634780a97768904.mp3",
+    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_10.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 10",
     "children" : [ ]
   } ],

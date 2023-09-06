@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 19245,
+    "published" : "2023-09-06",
+    "duration" : 33885,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_dd7e0b8907c48f09dfe11ce1a6289526.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_dd7e0b8907c48f09dfe11ce1a6289526.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_dd7e0b8907c48f09dfe11ce1a6289526.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_dd7e0b8907c48f09dfe11ce1a6289526.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_5d17a4185ee4da8221637394ebb6a65c.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2034,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_cfe3d9a5c409c4c1c1bab46e003c4756.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1946,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_38caf7e8790356ea8837c15f4157a5b0.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2153,
@@ -60,23 +60,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_487fd5a3e803d8a54e5a595b570e9db1_1.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "giac-mo-4 (1)",
+    "duration" : 2394,
+    "title" : "giac-mo-4",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_487fd5a3e803d8a54e5a595b570e9db1_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "giac-mo-4 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_b7956df08e268c7c306e324f194dad9d.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2184,
@@ -84,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_663bd956781e8b021c785e810f10cc13.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2137,
@@ -92,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_dab0dc37208929fd5f5fc5c7963bf85b.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2011,
@@ -100,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_1c5e53a26ac8a2bf4cfa8dfdd69c72b2.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2175,
@@ -108,65 +100,49 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_2001bc175acd7aaedbbd5141d88bcc2e_1.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "giac-mo-9 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_2001bc175acd7aaedbbd5141d88bcc2e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "giac-mo-9 (2)",
+    "duration" : 2211,
+    "title" : "giac-mo-9",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_5d17a4185ee4da8221637394ebb6a65c.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-1.mp3",
     "title" : "giac-mo-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_cfe3d9a5c409c4c1c1bab46e003c4756.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-2.mp3",
     "title" : "giac-mo-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_38caf7e8790356ea8837c15f4157a5b0.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-3.mp3",
     "title" : "giac-mo-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_487fd5a3e803d8a54e5a595b570e9db1_1.mp3",
-    "title" : "giac-mo-4 (1)",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-4.mp3",
+    "title" : "giac-mo-4",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_487fd5a3e803d8a54e5a595b570e9db1_2.mp3",
-    "title" : "giac-mo-4 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_b7956df08e268c7c306e324f194dad9d.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-5.mp3",
     "title" : "giac-mo-5",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_663bd956781e8b021c785e810f10cc13.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-6.mp3",
     "title" : "giac-mo-6",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_dab0dc37208929fd5f5fc5c7963bf85b.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-7.mp3",
     "title" : "giac-mo-7",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_1c5e53a26ac8a2bf4cfa8dfdd69c72b2.mp3",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-8.mp3",
     "title" : "giac-mo-8",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_2001bc175acd7aaedbbd5141d88bcc2e_1.mp3",
-    "title" : "giac-mo-9 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_dd7e0b8907c48f09dfe11ce1a6289526_2001bc175acd7aaedbbd5141d88bcc2e_2.mp3",
-    "title" : "giac-mo-9 (2)",
+    "href" : "https://archive.org/download/giac-mo-4/giac-mo-9.mp3",
+    "title" : "giac-mo-9",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

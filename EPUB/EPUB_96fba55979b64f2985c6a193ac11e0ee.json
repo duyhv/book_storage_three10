@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
-    "duration" : 24022,
+    "published" : "2023-09-06",
+    "duration" : 32269,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_96fba55979b64f2985c6a193ac11e0ee.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_96fba55979b64f2985c6a193ac11e0ee.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_96fba55979b64f2985c6a193ac11e0ee.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_96fba55979b64f2985c6a193ac11e0ee.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8941996c7cca61ee37e0f802345dcde7.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 902,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_040dd16898c3c39ff8ab568f2ec948c9.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1850,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_c51dcef1ea5e9d50d7525b7c06a5ebbf.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1697,
@@ -60,23 +60,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_f5f7a376fc8b61c14634a281b355a159_1.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "PHẦN 3 - ĐÔI CÁNH NIỀM TIN | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (1)",
+    "duration" : 3662,
+    "title" : "PHẦN 3 - ĐÔI CÁNH NIỀM TIN | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_f5f7a376fc8b61c14634a281b355a159_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "PHẦN 3 - ĐÔI CÁNH NIỀM TIN | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_4f05836ace2d22161ff6f25668851dda.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1484,
@@ -84,63 +76,31 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_47ffb3a79553b1a7fe38e2ff742acacb_1.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "PHẦN 5 - TÌM LẠI SỰ SỐNG | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (1)",
+    "duration" : 2491,
+    "title" : "PHẦN 5 - TÌM LẠI SỰ SỐNG | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_47ffb3a79553b1a7fe38e2ff742acacb_2.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "PHẦN 5 - TÌM LẠI SỰ SỐNG | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (2)",
+    "duration" : 2359,
+    "title" : "GIA ĐÌNH ĐIỂM TỰA BÌNH YÊN | SỰ SỐNG GIÁ BAO NHIÊU",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_7f921866f871c0ed1989943bdcc21d79_1.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "GIA ĐÌNH ĐIỂM TỰA BÌNH YÊN | SỰ SỐNG GIÁ BAO NHIÊU (1)",
+    "duration" : 4919,
+    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU|",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_7f921866f871c0ed1989943bdcc21d79_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "GIA ĐÌNH ĐIỂM TỰA BÌNH YÊN | SỰ SỐNG GIÁ BAO NHIÊU (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_2767049db265673fa21a4523c5489e7b_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU| (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_2767049db265673fa21a4523c5489e7b_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU| (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_2767049db265673fa21a4523c5489e7b_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU| (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_eee1933b29a1003929415ee5d6283faa.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1079,
@@ -148,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8bcb857bdc62048331cc0379c3aa73ec.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1235,
@@ -156,89 +116,57 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8a7b39f18b0ea0196f2ed4850b1928ff_1.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "HAPPY ENDING | SỰ SỐNG GIÁ BAO NHIÊU (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8a7b39f18b0ea0196f2ed4850b1928ff_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "HAPPY ENDING | SỰ SỐNG GIÁ BAO NHIÊU (2)",
+    "duration" : 2344,
+    "title" : "HAPPY ENDING | SỰ SỐNG GIÁ BAO NHIÊU",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8941996c7cca61ee37e0f802345dcde7.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-01.mp3",
     "title" : "PHẦN MỞ ĐẦU | SỰ SỐNG GIÁ BAO NHIÊU | VŨ THÀNH VINH | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_040dd16898c3c39ff8ab568f2ec948c9.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-02.mp3",
     "title" : "PHẦN 1 - GIỮA LẰN RANH SINH TỬ - SỰ SỐNG GIÁ BAO NHIÊU?",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_c51dcef1ea5e9d50d7525b7c06a5ebbf.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-03.mp3",
     "title" : "PHẦN 2 - CHẠY ĐUA VỚI THỜI GIAN |SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH| RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_f5f7a376fc8b61c14634a281b355a159_1.mp3",
-    "title" : "PHẦN 3 - ĐÔI CÁNH NIỀM TIN | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (1)",
+    "href" : "https://archive.org/download/su-song-08/su-song-04.mp3",
+    "title" : "PHẦN 3 - ĐÔI CÁNH NIỀM TIN | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_f5f7a376fc8b61c14634a281b355a159_2.mp3",
-    "title" : "PHẦN 3 - ĐÔI CÁNH NIỀM TIN | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_4f05836ace2d22161ff6f25668851dda.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-05.mp3",
     "title" : "LIỀU THUỐC SINH TỬ | SÁCH NÓI SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_47ffb3a79553b1a7fe38e2ff742acacb_1.mp3",
-    "title" : "PHẦN 5 - TÌM LẠI SỰ SỐNG | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (1)",
+    "href" : "https://archive.org/download/su-song-08/su-song-06.mp3",
+    "title" : "PHẦN 5 - TÌM LẠI SỰ SỐNG | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_47ffb3a79553b1a7fe38e2ff742acacb_2.mp3",
-    "title" : "PHẦN 5 - TÌM LẠI SỰ SỐNG | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN (2)",
+    "href" : "https://archive.org/download/su-song-08/su-song-07.mp3",
+    "title" : "GIA ĐÌNH ĐIỂM TỰA BÌNH YÊN | SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_7f921866f871c0ed1989943bdcc21d79_1.mp3",
-    "title" : "GIA ĐÌNH ĐIỂM TỰA BÌNH YÊN | SỰ SỐNG GIÁ BAO NHIÊU (1)",
+    "href" : "https://archive.org/download/su-song-08/su-song-08.mp3",
+    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU|",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_7f921866f871c0ed1989943bdcc21d79_2.mp3",
-    "title" : "GIA ĐÌNH ĐIỂM TỰA BÌNH YÊN | SỰ SỐNG GIÁ BAO NHIÊU (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_2767049db265673fa21a4523c5489e7b_1.mp3",
-    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU| (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_2767049db265673fa21a4523c5489e7b_2.mp3",
-    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU| (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_2767049db265673fa21a4523c5489e7b_3.mp3",
-    "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU| (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_eee1933b29a1003929415ee5d6283faa.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-09.mp3",
     "title" : "NEO TÂM HỒN NƠI BẾN BÌNH AN|SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8bcb857bdc62048331cc0379c3aa73ec.mp3",
+    "href" : "https://archive.org/download/su-song-08/su-song-10.mp3",
     "title" : "TRI ÂN NHỮNG THIÊN THẦN ÁO TRẮNG & NHÀ BÁO|SỰ SỐNG GIÁ BAO NHIÊU | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8a7b39f18b0ea0196f2ed4850b1928ff_1.mp3",
-    "title" : "HAPPY ENDING | SỰ SỐNG GIÁ BAO NHIÊU (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_96fba55979b64f2985c6a193ac11e0ee_8a7b39f18b0ea0196f2ed4850b1928ff_2.mp3",
-    "title" : "HAPPY ENDING | SỰ SỐNG GIÁ BAO NHIÊU (2)",
+    "href" : "https://archive.org/download/su-song-08/su-song-11.mp3",
+    "title" : "HAPPY ENDING | SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

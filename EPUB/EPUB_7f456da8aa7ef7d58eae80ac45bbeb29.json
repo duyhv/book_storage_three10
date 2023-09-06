@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
-    "duration" : 1695,
+    "published" : "2023-09-06",
+    "duration" : 3390,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_7f456da8aa7ef7d58eae80ac45bbeb29.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_7f456da8aa7ef7d58eae80ac45bbeb29.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_7f456da8aa7ef7d58eae80ac45bbeb29.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_7f456da8aa7ef7d58eae80ac45bbeb29.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7f456da8aa7ef7d58eae80ac45bbeb29_1547b0c4ec618a616ccec401098ef2bd.mp3",
+    "href" : "https://archive.org/download/y-2mate.com-kinh-duo-c-su-ke-tro-m-huo-ng/y2mate.com%20-%20KINH%20D%C6%AF%E1%BB%A2C%20S%C6%AF%20%20K%E1%BA%BA%20TR%E1%BB%98M%20H%C6%AF%C6%A0NG.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1695,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7f456da8aa7ef7d58eae80ac45bbeb29_1547b0c4ec618a616ccec401098ef2bd.mp3",
+    "href" : "https://archive.org/download/y-2mate.com-kinh-duo-c-su-ke-tro-m-huo-ng/y2mate.com%20-%20KINH%20D%C6%AF%E1%BB%A2C%20S%C6%AF%20%20K%E1%BA%BA%20TR%E1%BB%98M%20H%C6%AF%C6%A0NG.mp3",
     "title" : "y2mate.com - KINH DƯỢC SƯ  KẺ TRỘM HƯƠNG",
     "children" : [ ]
   } ],

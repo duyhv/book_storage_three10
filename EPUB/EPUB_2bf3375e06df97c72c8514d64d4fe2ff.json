@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 4145,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,39 +26,27 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_2bf3375e06df97c72c8514d64d4fe2ff.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_2bf3375e06df97c72c8514d64d4fe2ff.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_2bf3375e06df97c72c8514d64d4fe2ff.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_2bf3375e06df97c72c8514d64d4fe2ff.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_2bf3375e06df97c72c8514d64d4fe2ff_537b0ce7336677def083ce73a6186234_1.mp3",
+    "href" : "https://archive.org/download/mot-doa/mot-doa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-doa (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_2bf3375e06df97c72c8514d64d4fe2ff_537b0ce7336677def083ce73a6186234_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "mot-doa (2)",
+    "duration" : 4145,
+    "title" : "mot-doa",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_2bf3375e06df97c72c8514d64d4fe2ff_537b0ce7336677def083ce73a6186234_1.mp3",
-    "title" : "mot-doa (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_2bf3375e06df97c72c8514d64d4fe2ff_537b0ce7336677def083ce73a6186234_2.mp3",
-    "title" : "mot-doa (2)",
+    "href" : "https://archive.org/download/mot-doa/mot-doa.mp3",
+    "title" : "mot-doa",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

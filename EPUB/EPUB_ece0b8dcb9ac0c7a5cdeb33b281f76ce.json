@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-05",
+    "published" : "2023-09-06",
     "duration" : 28988,
     "abridged" : false,
     "conformsTo" : null,
@@ -26,183 +26,51 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_ece0b8dcb9ac0c7a5cdeb33b281f76ce.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_ece0b8dcb9ac0c7a5cdeb33b281f76ce.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_ece0b8dcb9ac0c7a5cdeb33b281f76ce.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_ece0b8dcb9ac0c7a5cdeb33b281f76ce.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_1.mp3",
+    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%201%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (1)",
+    "duration" : 8680,
+    "title" : "Phần 1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_2.mp3",
+    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%202%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (2)",
+    "duration" : 8336,
+    "title" : "Phần 2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_3.mp3",
+    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/L%E1%BA%A0C%20%C4%90%C6%AF%E1%BB%9CNG%20%20H%E1%BB%92%20BI%E1%BB%82U%20CH%C3%81NH%20%20QU%E1%BB%B2NH%20NH%C6%AF%20%20H%E1%BA%BAM%20RADIO.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 1 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2 (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_5.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (5)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_6.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (6)",
+    "duration" : 11972,
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_1.mp3",
-    "title" : "Phần 1 (1)",
+    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%201%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
+    "title" : "Phần 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_2.mp3",
-    "title" : "Phần 1 (2)",
+    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%202%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
+    "title" : "Phần 2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_3.mp3",
-    "title" : "Phần 1 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_e6cc22801f2d129e369e1b979808ce93_4.mp3",
-    "title" : "Phần 1 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_1.mp3",
-    "title" : "Phần 2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_2.mp3",
-    "title" : "Phần 2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_3.mp3",
-    "title" : "Phần 2 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_f45305a7a3679e6fce4a2a1c813885a5_4.mp3",
-    "title" : "Phần 2 (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_1.mp3",
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_2.mp3",
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_3.mp3",
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_4.mp3",
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_5.mp3",
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (5)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_ece0b8dcb9ac0c7a5cdeb33b281f76ce_107a0d7f6c7a22a6455e6884463650ed_6.mp3",
-    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO (6)",
+    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/L%E1%BA%A0C%20%C4%90%C6%AF%E1%BB%9CNG%20%20H%E1%BB%92%20BI%E1%BB%82U%20CH%C3%81NH%20%20QU%E1%BB%B2NH%20NH%C6%AF%20%20H%E1%BA%BAM%20RADIO.mp3",
+    "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

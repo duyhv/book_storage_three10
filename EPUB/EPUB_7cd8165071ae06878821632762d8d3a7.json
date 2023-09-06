@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-31",
-    "duration" : 18065,
+    "published" : "2023-09-06",
+    "duration" : 33175,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_7cd8165071ae06878821632762d8d3a7.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_7cd8165071ae06878821632762d8d3a7.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_7cd8165071ae06878821632762d8d3a7.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_7cd8165071ae06878821632762d8d3a7.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7511a75e89728878d4e265a0258d63cd.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 945,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_77d9d870771e6147a69b667d27c47764.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1799,
@@ -52,23 +52,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_1.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (1)",
+    "duration" : 2955,
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_197eddc9a4d46785b8565dede6590d07.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2538,
@@ -76,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_74cd3de8d3a14da8101103d6a6eca6b7.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1963,
@@ -84,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_98696857df21caece571811d69e6707d.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1797,
@@ -92,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_8df0f5fd4a3d902364005b162967bfcb.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1877,
@@ -100,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7c881473d39a73deefdbb1f7c559466e.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1931,
@@ -108,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_505a8f60f79a03ea1f88c659998182b0.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2260,
@@ -117,43 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7511a75e89728878d4e265a0258d63cd.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_01.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_77d9d870771e6147a69b667d27c47764.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_02.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_1.mp3",
-    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (1)",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_03.mp3",
+    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_6f69bb54c3c75d6236934752d274edd5_2.mp3",
-    "title" : "LAO HAT RONG NGAM KHUC TRANG CA 03 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_197eddc9a4d46785b8565dede6590d07.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_04.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 04",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_74cd3de8d3a14da8101103d6a6eca6b7.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_05.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 05",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_98696857df21caece571811d69e6707d.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_06.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 06",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_8df0f5fd4a3d902364005b162967bfcb.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_07.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 07",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_7c881473d39a73deefdbb1f7c559466e.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_08.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 08",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_7cd8165071ae06878821632762d8d3a7_505a8f60f79a03ea1f88c659998182b0.mp3",
+    "href" : "https://archive.org/download/lao-hat-rong-ngam-khuc-trang-ca.sna/LAO_HAT_RONG_NGAM_KHUC_TRANG_CA_09.mp3",
     "title" : "LAO HAT RONG NGAM KHUC TRANG CA 09",
     "children" : [ ]
   } ],

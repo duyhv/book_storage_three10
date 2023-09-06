@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 22419,
+    "published" : "2023-09-06",
+    "duration" : 38678,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_b39ee8cb85b9387ef7dd13774908ac36.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_b39ee8cb85b9387ef7dd13774908ac36.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_b39ee8cb85b9387ef7dd13774908ac36.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_b39ee8cb85b9387ef7dd13774908ac36.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_ce3bd4cda4dd2f2effe9dd11ff5efbdc.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4882,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_078793e1e7c5f9f222921a65542ea69e.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3831,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_9172d47a865057650b9660b0f1416da8.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3644,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_6bc595e50e91c095f59a9b7d5e926a9e.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3902,
@@ -68,45 +68,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_cbc4e40a53d9f0e7896bc7e8368837c2_1.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_cbc4e40a53d9f0e7896bc7e8368837c2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE (2)",
+    "duration" : 6160,
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_ce3bd4cda4dd2f2effe9dd11ff5efbdc.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/1.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_078793e1e7c5f9f222921a65542ea69e.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/2.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_9172d47a865057650b9660b0f1416da8.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/3.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_6bc595e50e91c095f59a9b7d5e926a9e.mp3",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/4.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_cbc4e40a53d9f0e7896bc7e8368837c2_1.mp3",
-    "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_b39ee8cb85b9387ef7dd13774908ac36_cbc4e40a53d9f0e7896bc7e8368837c2_2.mp3",
-    "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE (2)",
+    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/5.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

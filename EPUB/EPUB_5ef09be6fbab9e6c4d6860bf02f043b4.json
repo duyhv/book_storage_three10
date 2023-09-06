@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-26",
-    "duration" : 7404,
+    "published" : "2023-09-06",
+    "duration" : 14808,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/EPUB/EPUB_5ef09be6fbab9e6c4d6860bf02f043b4.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_5ef09be6fbab9e6c4d6860bf02f043b4.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/IMAGE/IMAGE_5ef09be6fbab9e6c4d6860bf02f043b4.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_5ef09be6fbab9e6c4d6860bf02f043b4.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_5ef09be6fbab9e6c4d6860bf02f043b4_ad61c7a685a62b2d6d572807f1914104.mp3",
+    "href" : "https://archive.org/download/1_20210116_20210116_1239/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3967,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_5ef09be6fbab9e6c4d6860bf02f043b4_08771e379079418c4d9000b8a5d94a59.mp3",
+    "href" : "https://archive.org/download/1_20210116_20210116_1239/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3437,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_5ef09be6fbab9e6c4d6860bf02f043b4_ad61c7a685a62b2d6d572807f1914104.mp3",
+    "href" : "https://archive.org/download/1_20210116_20210116_1239/1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/quetcccd/book_storage_three10/main/AUDIO/AUDIO_5ef09be6fbab9e6c4d6860bf02f043b4_08771e379079418c4d9000b8a5d94a59.mp3",
+    "href" : "https://archive.org/download/1_20210116_20210116_1239/2.mp3",
     "title" : "2",
     "children" : [ ]
   } ],

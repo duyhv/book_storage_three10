@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
-    "duration" : 2396,
+    "published" : "2023-09-06",
+    "duration" : 4792,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -26,17 +26,17 @@
   },
   "links" : [ {
     "rel" : "self",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/EPUB/EPUB_525cd899d5dd23e574e5c214e48fb822.json",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/EPUB/EPUB_525cd899d5dd23e574e5c214e48fb822.json",
     "type" : "application/audiobook+json"
   }, {
     "rel" : "cover",
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/book_storage_three10/main/IMAGE/IMAGE_525cd899d5dd23e574e5c214e48fb822.jpg",
+    "href" : "https://raw.githubusercontent.com/duyhv/book_storage_three10/main/IMAGE/IMAGE_525cd899d5dd23e574e5c214e48fb822.jpg",
     "type" : "image/jpeg",
     "height" : 300,
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_525cd899d5dd23e574e5c214e48fb822_4a78a9416610339e61fb89ff49895d9a.mp3",
+    "href" : "https://archive.org/download/ba-bovary-01/BA_BOVARY-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2396,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage10/main/AUDIO/AUDIO_525cd899d5dd23e574e5c214e48fb822_4a78a9416610339e61fb89ff49895d9a.mp3",
+    "href" : "https://archive.org/download/ba-bovary-01/BA_BOVARY-01.mp3",
     "title" : "BA BOVARY-01",
     "children" : [ ]
   } ],
