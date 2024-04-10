@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-09",
     "duration" : 28988,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%201%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
+    "href" : "https://archive.org/download/ece0b8dcb9ac0c7a5cdeb33b281f76ce/phan-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8680,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%202%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
+    "href" : "https://archive.org/download/ece0b8dcb9ac0c7a5cdeb33b281f76ce/phan-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8336,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/L%E1%BA%A0C%20%C4%90%C6%AF%E1%BB%9CNG%20%20H%E1%BB%92%20BI%E1%BB%82U%20CH%C3%81NH%20%20QU%E1%BB%B2NH%20NH%C6%AF%20%20H%E1%BA%BAM%20RADIO.mp3",
+    "href" : "https://archive.org/download/ece0b8dcb9ac0c7a5cdeb33b281f76ce/lac-duong-ho-bieu-chanh-quynh-nhu-hem-radio.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 11972,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%201%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
+    "href" : "https://archive.org/download/ece0b8dcb9ac0c7a5cdeb33b281f76ce/phan-1.mp3",
     "title" : "Phần 1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/Ki%E1%BB%83m%20so%C3%A1t%20c%E1%BA%A3m%20x%C3%BAc%20-%20Ph%E1%BA%A7n%202%28%20s%C3%A1ch%20n%C3%B3i%29.mp3",
+    "href" : "https://archive.org/download/ece0b8dcb9ac0c7a5cdeb33b281f76ce/phan-2.mp3",
     "title" : "Phần 2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/la-c-duo-ng-ho-bie-u-cha-nh-quy-nh-nhu-he-m-radio/L%E1%BA%A0C%20%C4%90%C6%AF%E1%BB%9CNG%20%20H%E1%BB%92%20BI%E1%BB%82U%20CH%C3%81NH%20%20QU%E1%BB%B2NH%20NH%C6%AF%20%20H%E1%BA%BAM%20RADIO.mp3",
+    "href" : "https://archive.org/download/ece0b8dcb9ac0c7a5cdeb33b281f76ce/lac-duong-ho-bieu-chanh-quynh-nhu-hem-radio.mp3",
     "title" : "LẠC ĐƯỜNG | HỒ BIỂU CHÁNH | QUỲNH NHƯ | HẺM RADIO",
     "children" : [ ]
   } ],
