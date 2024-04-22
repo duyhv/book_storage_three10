@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 33885,
+    "published" : "2024-04-22",
+    "duration" : 19245,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-1.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2034,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-2.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1946,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-3.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2153,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-4.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2394,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-5.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2184,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-6.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2137,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-7.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2011,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-8.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2175,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-9.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-9.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2211,
@@ -109,39 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-1.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-1.mp3",
     "title" : "giac-mo-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-2.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-2.mp3",
     "title" : "giac-mo-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-3.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-3.mp3",
     "title" : "giac-mo-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-4.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-4.mp3",
     "title" : "giac-mo-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-5.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-5.mp3",
     "title" : "giac-mo-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-6.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-6.mp3",
     "title" : "giac-mo-6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-7.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-7.mp3",
     "title" : "giac-mo-7",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-8.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-8.mp3",
     "title" : "giac-mo-8",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/giac-mo-4/giac-mo-9.mp3",
+    "href" : "https://archive.org/download/dd7e0b8907c48f09dfe11ce1a6289526/giac-mo-9.mp3",
     "title" : "giac-mo-9",
     "children" : [ ]
   } ],

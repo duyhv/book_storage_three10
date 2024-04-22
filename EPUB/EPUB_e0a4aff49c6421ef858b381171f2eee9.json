@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-04-22",
     "duration" : 25692,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-1.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5416,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-2.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5431,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-3.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4593,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-4.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 5283,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-5.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4969,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-1.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-1.mp3",
     "title" : "mai-mai-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-2.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-2.mp3",
     "title" : "mai-mai-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-3.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-3.mp3",
     "title" : "mai-mai-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-4.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-4.mp3",
     "title" : "mai-mai-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mai-mai-2/mai-mai-5.mp3",
+    "href" : "https://archive.org/download/e0a4aff49c6421ef858b381171f2eee9/mai-mai-5.mp3",
     "title" : "mai-mai-5",
     "children" : [ ]
   } ],
