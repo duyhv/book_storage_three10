@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 38678,
+    "published" : "2024-04-30",
+    "duration" : 22419,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/1.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4882,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/2.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3831,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/3.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3644,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/4.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3902,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/5.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 6160,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/1.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/2.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/3.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/4.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe-mc-bao-anh.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE - MC BẢO ANH",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ai-gui-canh-thu-vao-trong-may/5.mp3",
+    "href" : "https://archive.org/download/b39ee8cb85b9387ef7dd13774908ac36/truyen-ngon-tinh-cuc-ki-sau-sac-dang-nghe.mp3",
     "title" : "TRUYỆN NGÔN TÌNH CỰC KÌ SÂU SẮC ĐÁNG NGHE",
     "children" : [ ]
   } ],

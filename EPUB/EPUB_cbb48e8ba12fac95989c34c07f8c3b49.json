@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 68411,
+    "published" : "2024-04-29",
+    "duration" : 38941,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/rung-xanh-la-do/1.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/1-tieu-thuyet-hay-cua-nha-van-doat-giai-nobel-mac-ngon.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4235,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/2.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/2-chan-phai-truoc-chan-trai-sau.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4200,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/3.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/3-chuyen-cu-khong-bao-gio-tro-lai.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/4.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/4-nguoi-dan-ong-ky-la.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/5.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/5-ky-tich-cua-tao-hoa.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/6.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/6-buon-vui-lan-lon.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/7.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/7-hiep-hoi-gao-thet-thanh-pho-nam-giang.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4207,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/8.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/8-toi-khong-mac-lua-cac-anh-nua.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4739,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/9.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/9-duong-ai-nay-di.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4732,
@@ -109,39 +109,39 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/rung-xanh-la-do/1.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/1-tieu-thuyet-hay-cua-nha-van-doat-giai-nobel-mac-ngon.mp3",
     "title" : "1 - Tiểu Thuyết Hay của Nhà Văn Đoạt Giải Nobel Mạc Ngôn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/2.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/2-chan-phai-truoc-chan-trai-sau.mp3",
     "title" : "2 - Chân phải trước, Chân trái sau",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/3.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/3-chuyen-cu-khong-bao-gio-tro-lai.mp3",
     "title" : "3 - Chuyện cũ không bao giờ trở lại",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/4.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/4-nguoi-dan-ong-ky-la.mp3",
     "title" : "4 - Người Đàn Ông Kỳ Lạ",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/5.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/5-ky-tich-cua-tao-hoa.mp3",
     "title" : "5 - Kỳ Tích của Tạo Hóa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/6.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/6-buon-vui-lan-lon.mp3",
     "title" : "6 - Buồn Vui Lẫn Lộn",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/7.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/7-hiep-hoi-gao-thet-thanh-pho-nam-giang.mp3",
     "title" : "7 - Hiệp hội gào thét Thành phố Nam giang",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/8.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/8-toi-khong-mac-lua-cac-anh-nua.mp3",
     "title" : "8 - Tôi không mắc lừa các anh nữa",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/rung-xanh-la-do/9.mp3",
+    "href" : "https://archive.org/download/cbb48e8ba12fac95989c34c07f8c3b49/9-duong-ai-nay-di.mp3",
     "title" : "9 - Đường ai nấy đi",
     "children" : [ ]
   } ],
