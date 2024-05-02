@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 26525,
+    "published" : "2024-05-02",
+    "duration" : 19302,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-1.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3079,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-2.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2135,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-3.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3005,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-4.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2923,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-5.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2548,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-6.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2540,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-7.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-7.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3072,
@@ -93,31 +93,31 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-1.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-1.mp3",
     "title" : "mon-qua-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-2.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-2.mp3",
     "title" : "mon-qua-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-3.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-3.mp3",
     "title" : "mon-qua-3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-4.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-4.mp3",
     "title" : "mon-qua-4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-5.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-5.mp3",
     "title" : "mon-qua-5",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-6.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-6.mp3",
     "title" : "mon-qua-6",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mon-qua-1/mon-qua-7.mp3",
+    "href" : "https://archive.org/download/803388fe6e006d1e928aabd315d14385/mon-qua-7.mp3",
     "title" : "mon-qua-7",
     "children" : [ ]
   } ],
