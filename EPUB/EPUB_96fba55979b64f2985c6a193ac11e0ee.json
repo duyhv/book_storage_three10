@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 32269,
+    "published" : "2024-05-04",
+    "duration" : 24022,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/su-song-08/su-song-01.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/1-phan-mo-dau-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 902,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-02.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/2-phan-1-giua-lan-ranh-sinh-tu-su-song-gia-bao-nhieu-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1850,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-03.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/3-phan-2-chay-dua-voi-thoi-gian-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1697,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-04.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/4-phan-3-doi-canh-niem-tin-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3662,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-05.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/5-lieu-thuoc-sinh-tu-sach-noi-su-song-gia-bao-nhieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1484,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-06.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/6-phan-5-tim-lai-su-song-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2491,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-07.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/7-gia-dinh-diem-tua-binh-yen-su-song-gia-bao-nhieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2359,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-08.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/8-tinh-yeu-lao-dong-bi-mat-cua-thanh-cong-va-hanh-phuc-su-song-gia-bao-nhieu-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4919,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-09.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/9-neo-tam-hon-noi-ben-binh-an-su-song-gia-bao-nhieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1079,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-10.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/10-tri-an-nhung-thien-than-ao-trang-nha-bao-su-song-gia-bao-nhieu-radio-tam-an.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1235,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-11.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/11-happy-ending-su-song-gia-bao-nhieu.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2344,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/su-song-08/su-song-01.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/1-phan-mo-dau-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "title" : "PHẦN MỞ ĐẦU | SỰ SỐNG GIÁ BAO NHIÊU | VŨ THÀNH VINH | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-02.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/2-phan-1-giua-lan-ranh-sinh-tu-su-song-gia-bao-nhieu-.mp3",
     "title" : "PHẦN 1 - GIỮA LẰN RANH SINH TỬ - SỰ SỐNG GIÁ BAO NHIÊU?",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-03.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/3-phan-2-chay-dua-voi-thoi-gian-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "title" : "PHẦN 2 - CHẠY ĐUA VỚI THỜI GIAN |SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH| RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-04.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/4-phan-3-doi-canh-niem-tin-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "title" : "PHẦN 3 - ĐÔI CÁNH NIỀM TIN | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-05.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/5-lieu-thuoc-sinh-tu-sach-noi-su-song-gia-bao-nhieu.mp3",
     "title" : "LIỀU THUỐC SINH TỬ | SÁCH NÓI SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-06.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/6-phan-5-tim-lai-su-song-su-song-gia-bao-nhieu-vu-thanh-vinh-radio-tam-an.mp3",
     "title" : "PHẦN 5 - TÌM LẠI SỰ SỐNG | SỰ SỐNG GIÁ BAO NHIÊU - VŨ THÀNH VINH | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-07.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/7-gia-dinh-diem-tua-binh-yen-su-song-gia-bao-nhieu.mp3",
     "title" : "GIA ĐÌNH ĐIỂM TỰA BÌNH YÊN | SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-08.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/8-tinh-yeu-lao-dong-bi-mat-cua-thanh-cong-va-hanh-phuc-su-song-gia-bao-nhieu-.mp3",
     "title" : "TÌNH YÊU LAO ĐỘNG BÍ MẬT CỦA THÀNH CÔNG VÀ HẠNH PHÚC | SỰ SỐNG GIÁ BAO NHIÊU|",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-09.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/9-neo-tam-hon-noi-ben-binh-an-su-song-gia-bao-nhieu.mp3",
     "title" : "NEO TÂM HỒN NƠI BẾN BÌNH AN|SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-10.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/10-tri-an-nhung-thien-than-ao-trang-nha-bao-su-song-gia-bao-nhieu-radio-tam-an.mp3",
     "title" : "TRI ÂN NHỮNG THIÊN THẦN ÁO TRẮNG & NHÀ BÁO|SỰ SỐNG GIÁ BAO NHIÊU | RADIO TÂM AN",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/su-song-08/su-song-11.mp3",
+    "href" : "https://archive.org/download/96fba55979b64f2985c6a193ac11e0ee/11-happy-ending-su-song-gia-bao-nhieu.mp3",
     "title" : "HAPPY ENDING | SỰ SỐNG GIÁ BAO NHIÊU",
     "children" : [ ]
   } ],
