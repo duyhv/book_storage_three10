@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
+    "published" : "2024-05-06",
     "duration" : 8378,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/pho-tuong/pho-tuong.mp3",
+    "href" : "https://archive.org/download/690a260c336a7a80d5aa5af3e8de84de/1-pho-tuong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 8378,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/pho-tuong/pho-tuong.mp3",
+    "href" : "https://archive.org/download/690a260c336a7a80d5aa5af3e8de84de/1-pho-tuong.mp3",
     "title" : "pho-tuong",
     "children" : [ ]
   } ],
