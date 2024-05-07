@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 36818,
+    "published" : "2024-05-07",
+    "duration" : 18409,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tbp_20220318/00.GIO%CC%9B%CC%81I%20THIE%CC%A3%CC%82U%20-%20TRUYE%CC%A3%CC%82N%20AUDIO%20-%20TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/1-00-gioi-thieu-truyen-audio-tu-binh-phong-dich-cong-ky-an-quyen-02-1080p-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 50,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2001%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/2-tu-binh-phong-phan-01-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1898,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/3-tu-binh-phong-phan-02-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1840,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2003%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/4-tu-binh-phong-phan-03-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1900,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2004%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/5-tu-binh-phong-phan-04-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1931,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2005%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/6-tu-binh-phong-phan-05-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1868,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2006%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/7-tu-binh-phong-phan-06-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1666,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2007%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/8-tu-binh-phong-phan-07-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1795,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2008%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/9-tu-binh-phong-phan-08-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1565,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2009%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/10-tu-binh-phong-phan-09-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1810,
@@ -116,7 +116,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2010%20-%20KE%CC%82%CC%81T%20THU%CC%81C%20QUYE%CC%82%CC%89N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/11-tu-binh-phong-phan-10-ket-thuc-quyen-02-dich-cong-ky-an-quyen-02-1080p-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2086,
@@ -125,47 +125,47 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tbp_20220318/00.GIO%CC%9B%CC%81I%20THIE%CC%A3%CC%82U%20-%20TRUYE%CC%A3%CC%82N%20AUDIO%20-%20TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/1-00-gioi-thieu-truyen-audio-tu-binh-phong-dich-cong-ky-an-quyen-02-1080p-.mp3",
     "title" : "00.GIỚI THIỆU - TRUYỆN AUDIO - TỨ BÌNH PHONG   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p...",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2001%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/2-tu-binh-phong-phan-01-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 01   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/3-tu-binh-phong-phan-02-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 02   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2003%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/4-tu-binh-phong-phan-03-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 03   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2004%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/5-tu-binh-phong-phan-04-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 04   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2005%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/6-tu-binh-phong-phan-05-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 05   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2006%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/7-tu-binh-phong-phan-06-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 06   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2007%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/8-tu-binh-phong-phan-07-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 07   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2008%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/9-tu-binh-phong-phan-08-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 08   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2009%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/10-tu-binh-phong-phan-09-dich-cong-ky-an-quyen-02-1080p-25fps-h264-128kbit-aac-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 09   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p 25fps H264-128kbit AAC)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tbp_20220318/TU%CC%9B%CC%81%20BI%CC%80NH%20PHONG%20-%20PHA%CC%82%CC%80N%2010%20-%20KE%CC%82%CC%81T%20THU%CC%81C%20QUYE%CC%82%CC%89N%2002%20_%20%C4%90I%CC%A3CH%20CO%CC%82NG%20KY%CC%80%20A%CC%81N%20-%20QUYE%CC%82%CC%89N%2002%20%281080p_25fps_H264-128kbit_AAC%29.ia.mp4",
+    "href" : "https://archive.org/download/5f3d707f23b59aaa2d3ff67bd48ac9c9/11-tu-binh-phong-phan-10-ket-thuc-quyen-02-dich-cong-ky-an-quyen-02-1080p-.mp3",
     "title" : "TỨ BÌNH PHONG - PHẦN 10 - KẾT THÚC QUYỂN 02   ĐỊCH CÔNG KỲ ÁN - QUYỂN 02 (1080p...",
     "children" : [ ]
   } ],

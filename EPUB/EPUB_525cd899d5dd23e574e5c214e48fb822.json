@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 4792,
+    "published" : "2024-05-07",
+    "duration" : 2396,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ba-bovary-01/BA_BOVARY-01.mp3",
+    "href" : "https://archive.org/download/525cd899d5dd23e574e5c214e48fb822/1-ba-bovary-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2396,
@@ -45,7 +45,7 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ba-bovary-01/BA_BOVARY-01.mp3",
+    "href" : "https://archive.org/download/525cd899d5dd23e574e5c214e48fb822/1-ba-bovary-01.mp3",
     "title" : "BA BOVARY-01",
     "children" : [ ]
   } ],
