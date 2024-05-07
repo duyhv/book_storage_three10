@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 37116,
+    "published" : "2024-05-07",
+    "duration" : 18558,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/1.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/1-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4024,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/2.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/2-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3241,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/3.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/3-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3187,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/4.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/4-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3506,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/5.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/5-5.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4600,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/1.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/1-1.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/2.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/2-2.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/3.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/3-3.mp3",
     "title" : "3",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/4.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/4-4.mp3",
     "title" : "4",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tieng-go-cua-ngoai-nghia-dia/5.mp3",
+    "href" : "https://archive.org/download/4acaae9fe9a4f9d6deff5a0b1ba2ce9a/5-5.mp3",
     "title" : "5",
     "children" : [ ]
   } ],
