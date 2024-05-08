@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 30370,
+    "published" : "2024-05-08",
+    "duration" : 15185,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP01.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/1-thuongluongbatkyaip01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2888,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP02-03.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/2-thuongluongbatkyaip02-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2307,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP04-05.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/3-thuongluongbatkyaip04-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4982,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP06.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/4-thuongluongbatkyaip06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2910,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP07.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/5-thuongluongbatkyaip07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2098,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP01.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/1-thuongluongbatkyaip01.mp3",
     "title" : "ThuongLuongBatKyAiP01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP02-03.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/2-thuongluongbatkyaip02-03.mp3",
     "title" : "ThuongLuongBatKyAiP02-03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP04-05.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/3-thuongluongbatkyaip04-05.mp3",
     "title" : "ThuongLuongBatKyAiP04-05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP06.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/4-thuongluongbatkyaip06.mp3",
     "title" : "ThuongLuongBatKyAiP06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnThuongLuongBatKyAi/ThuongLuongBatKyAiP07.mp3",
+    "href" : "https://archive.org/download/28bbadd822826b5684163cfba1e90d04/5-thuongluongbatkyaip07.mp3",
     "title" : "ThuongLuongBatKyAiP07",
     "children" : [ ]
   } ],
