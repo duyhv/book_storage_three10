@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 38082,
+    "published" : "2024-05-07",
+    "duration" : 19041,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_01.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/1-cho-em-den-sanfrancisco-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1995,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_02.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/2-cho-em-den-sanfrancisco-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1865,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_03.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/3-cho-em-den-sanfrancisco-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2031,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_04.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/4-cho-em-den-sanfrancisco-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1888,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_05.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/5-cho-em-den-sanfrancisco-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1813,
@@ -76,7 +76,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_06.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/6-cho-em-den-sanfrancisco-06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1885,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_07.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/7-cho-em-den-sanfrancisco-07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2152,
@@ -92,7 +92,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_08.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/8-cho-em-den-sanfrancisco-08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2187,
@@ -100,7 +100,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_09.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/9-cho-em-den-sanfrancisco-09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2087,
@@ -108,7 +108,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_10.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/10-cho-em-den-sanfrancisco-10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1138,
@@ -117,43 +117,43 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_01.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/1-cho-em-den-sanfrancisco-01.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_02.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/2-cho-em-den-sanfrancisco-02.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_03.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/3-cho-em-den-sanfrancisco-03.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_04.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/4-cho-em-den-sanfrancisco-04.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_05.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/5-cho-em-den-sanfrancisco-05.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_06.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/6-cho-em-den-sanfrancisco-06.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_07.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/7-cho-em-den-sanfrancisco-07.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_08.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/8-cho-em-den-sanfrancisco-08.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_09.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/9-cho-em-den-sanfrancisco-09.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/cho-em-den-san-francisco.sna/CHO_EM_DEN_SANFRANCISCO_10.mp3",
+    "href" : "https://archive.org/download/3b4cc9c570fa7e8a71a85773000ad6aa/10-cho-em-den-sanfrancisco-10.mp3",
     "title" : "CHO EM DEN SANFRANCISCO 10",
     "children" : [ ]
   } ],
