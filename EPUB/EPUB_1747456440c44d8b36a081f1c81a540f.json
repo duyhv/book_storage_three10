@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 14882,
+    "published" : "2024-05-08",
+    "duration" : 11341,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/hieu-nang-1/hieu-nang-1.mp3",
+    "href" : "https://archive.org/download/1747456440c44d8b36a081f1c81a540f/1-hieu-nang-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hieu-nang-1/hieu-nang-2.mp3",
+    "href" : "https://archive.org/download/1747456440c44d8b36a081f1c81a540f/2-hieu-nang-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3900,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/hieu-nang-1/hieu-nang-3.mp3",
+    "href" : "https://archive.org/download/1747456440c44d8b36a081f1c81a540f/3-hieu-nang-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3541,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/hieu-nang-1/hieu-nang-1.mp3",
+    "href" : "https://archive.org/download/1747456440c44d8b36a081f1c81a540f/1-hieu-nang-1.mp3",
     "title" : "hieu-nang-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hieu-nang-1/hieu-nang-2.mp3",
+    "href" : "https://archive.org/download/1747456440c44d8b36a081f1c81a540f/2-hieu-nang-2.mp3",
     "title" : "hieu-nang-2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/hieu-nang-1/hieu-nang-3.mp3",
+    "href" : "https://archive.org/download/1747456440c44d8b36a081f1c81a540f/3-hieu-nang-3.mp3",
     "title" : "hieu-nang-3",
     "children" : [ ]
   } ],

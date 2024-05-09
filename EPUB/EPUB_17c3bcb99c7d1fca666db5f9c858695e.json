@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 10790,
+    "published" : "2024-05-08",
+    "duration" : 5395,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_01.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/1-doanhnhan8xlamgiau-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1102,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_02.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/2-doanhnhan8xlamgiau-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1227,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_03.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/3-doanhnhan8xlamgiau-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1210,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_04.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/4-doanhnhan8xlamgiau-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1092,
@@ -68,7 +68,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_05.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/5-doanhnhan8xlamgiau-05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 764,
@@ -77,23 +77,23 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_01.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/1-doanhnhan8xlamgiau-01.mp3",
     "title" : "DoanhNhan8xLamGiau 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_02.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/2-doanhnhan8xlamgiau-02.mp3",
     "title" : "DoanhNhan8xLamGiau 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_03.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/3-doanhnhan8xlamgiau-03.mp3",
     "title" : "DoanhNhan8xLamGiau 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_04.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/4-doanhnhan8xlamgiau-04.mp3",
     "title" : "DoanhNhan8xLamGiau 04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoiBanTre8xLamGiau/DoanhNhan8xLamGiau_05.mp3",
+    "href" : "https://archive.org/download/17c3bcb99c7d1fca666db5f9c858695e/5-doanhnhan8xlamgiau-05.mp3",
     "title" : "DoanhNhan8xLamGiau 05",
     "children" : [ ]
   } ],
