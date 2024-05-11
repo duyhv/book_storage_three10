@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 2441,
+    "published" : "2024-05-11",
+    "duration" : 24410,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,17 +36,125 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nhu-ng-ngo-i-sao-xa-xo-i-le-minh-khue-tra-n-ngo-c-san-he-m-radio-online-audio-converter.com/NH%E1%BB%AENG%20NG%C3%94I%20SAO%20XA%20X%C3%94I%20-%20L%C3%8A%20MINH%20KHU%C3%8A%20-%20TR%E1%BA%A6N%20NG%E1%BB%8CC%20SAN%20-%20H%E1%BA%BAM%20RADIO%20%28online-audio-converter.com%29.mp3",
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/1-nhung-ngoi-sao-xa-xoi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2441,
-    "title" : "589490471762705",
+    "title" : "Những ngôi sao xa xôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/2-anh-rat-yeu-em-.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Anh rất yêu em!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/3-mot-doi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Một đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/4-banh-khoai-mien-trung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Bánh khoái miền trung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/5-dao-do-thoi-chien-tranh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Dạo đó thời chiến tranh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/6-dong-tien-co-mau-xanh-huyen-ao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Đồng tiền có màu xanh huyền ảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/7-qua-bien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Quà biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/8-xu-la.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Xứ lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/9-qua-vuon-la-den-duong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Qua vườn là đến đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/10-cau-chuyen-tac-thanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2441,
+    "title" : "Câu chuyện tác thành",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nhu-ng-ngo-i-sao-xa-xo-i-le-minh-khue-tra-n-ngo-c-san-he-m-radio-online-audio-converter.com/NH%E1%BB%AENG%20NG%C3%94I%20SAO%20XA%20X%C3%94I%20-%20L%C3%8A%20MINH%20KHU%C3%8A%20-%20TR%E1%BA%A6N%20NG%E1%BB%8CC%20SAN%20-%20H%E1%BA%BAM%20RADIO%20%28online-audio-converter.com%29.mp3",
-    "title" : "589490471762705",
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/1-nhung-ngoi-sao-xa-xoi.mp3",
+    "title" : "Những ngôi sao xa xôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/2-anh-rat-yeu-em-.mp3",
+    "title" : "Anh rất yêu em!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/3-mot-doi.mp3",
+    "title" : "Một đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/4-banh-khoai-mien-trung.mp3",
+    "title" : "Bánh khoái miền trung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/5-dao-do-thoi-chien-tranh.mp3",
+    "title" : "Dạo đó thời chiến tranh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/6-dong-tien-co-mau-xanh-huyen-ao.mp3",
+    "title" : "Đồng tiền có màu xanh huyền ảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/7-qua-bien.mp3",
+    "title" : "Quà biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/8-xu-la.mp3",
+    "title" : "Xứ lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/9-qua-vuon-la-den-duong.mp3",
+    "title" : "Qua vườn là đến đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/79add11eb85da348643f2db0c76a8eed/10-cau-chuyen-tac-thanh.mp3",
+    "title" : "Câu chuyện tác thành",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
