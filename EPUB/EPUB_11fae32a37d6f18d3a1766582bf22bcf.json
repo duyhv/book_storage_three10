@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 20734,
+    "published" : "2024-05-11",
+    "duration" : 10367,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_01.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/1-viec-lang-01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2460,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_02.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/2-viec-lang-02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2622,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_03.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/3-viec-lang-03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2843,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_04.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/4-viec-lang-04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2442,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_01.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/1-viec-lang-01.mp3",
     "title" : "VIEC LANG 01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_02.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/2-viec-lang-02.mp3",
     "title" : "VIEC LANG 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_03.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/3-viec-lang-03.mp3",
     "title" : "VIEC LANG 03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/viec-lang.sna/VIEC_LANG_04.mp3",
+    "href" : "https://archive.org/download/11fae32a37d6f18d3a1766582bf22bcf/4-viec-lang-04.mp3",
     "title" : "VIEC LANG 04",
     "children" : [ ]
   } ],
