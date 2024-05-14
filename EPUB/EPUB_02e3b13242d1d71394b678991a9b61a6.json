@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 11396,
+    "published" : "2024-05-13",
+    "duration" : 7692,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/doi-tho-2/doi-tho-1.mp3",
+    "href" : "https://archive.org/download/02e3b13242d1d71394b678991a9b61a6/1-doi-tho-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3704,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/doi-tho-2/doi-tho-2.mp3",
+    "href" : "https://archive.org/download/02e3b13242d1d71394b678991a9b61a6/2-doi-tho-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3988,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/doi-tho-2/doi-tho-1.mp3",
+    "href" : "https://archive.org/download/02e3b13242d1d71394b678991a9b61a6/1-doi-tho-1.mp3",
     "title" : "doi-tho-1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/doi-tho-2/doi-tho-2.mp3",
+    "href" : "https://archive.org/download/02e3b13242d1d71394b678991a9b61a6/2-doi-tho-2.mp3",
     "title" : "doi-tho-2",
     "children" : [ ]
   } ],
