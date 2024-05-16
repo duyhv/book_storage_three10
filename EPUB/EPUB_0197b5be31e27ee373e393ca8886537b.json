@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 4420,
+    "published" : "2024-05-14",
+    "duration" : 2210,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/01-CoTien.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/1-01-cotien.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 335,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/02-NguonGocThoVanTrieuNguyen.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/2-02-nguongocthovantrieunguyen.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 358,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/03-PhongThuyLaGi.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/3-03-phongthuylagi.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 803,
@@ -60,7 +60,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/04-YNghiaMoiHuong.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/4-04-ynghiamoihuong.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 714,
@@ -69,19 +69,19 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/01-CoTien.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/1-01-cotien.mp3",
     "title" : "01-CoTien",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/02-NguonGocThoVanTrieuNguyen.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/2-02-nguongocthovantrieunguyen.mp3",
     "title" : "02-NguonGocThoVanTrieuNguyen",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/03-PhongThuyLaGi.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/3-03-phongthuylagi.mp3",
     "title" : "03-PhongThuyLaGi",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/sachnoi.vnPhongThuyBiQuyetDeThanhCong/04-YNghiaMoiHuong.mp3",
+    "href" : "https://archive.org/download/0197b5be31e27ee373e393ca8886537b/4-04-ynghiamoihuong.mp3",
     "title" : "04-YNghiaMoiHuong",
     "children" : [ ]
   } ],
