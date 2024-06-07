@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-09-06",
-    "duration" : 14572,
+    "published" : "2024-06-07",
+    "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://ia904700.us.archive.org/22/items/38--bucthu/~cgrR~vPZ2vQXm2Q0~9o8g==.mp3",
+    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/1-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://ia904700.us.archive.org/22/items/38--bucthu/~J~adu4ZxW9YiXxNVYGlrA==.mp3",
+    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/2-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://ia804700.us.archive.org/22/items/38--bucthu/+kQUKnJWQj5EvsHaICiaVQ==.mp3",
+    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/3-p3-end-.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://ia904700.us.archive.org/22/items/38--bucthu/~cgrR~vPZ2vQXm2Q0~9o8g==.mp3",
+    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/1-p1.mp3",
     "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://ia904700.us.archive.org/22/items/38--bucthu/~J~adu4ZxW9YiXxNVYGlrA==.mp3",
+    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/2-p2.mp3",
     "title" : "P2",
     "children" : [ ]
   }, {
-    "href" : "https://ia804700.us.archive.org/22/items/38--bucthu/+kQUKnJWQj5EvsHaICiaVQ==.mp3",
+    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/3-p3-end-.mp3",
     "title" : "P3 (End)",
     "children" : [ ]
   } ],
