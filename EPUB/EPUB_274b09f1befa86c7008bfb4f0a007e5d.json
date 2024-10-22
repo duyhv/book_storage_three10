@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 33734,
+    "published" : "2024-10-22",
+    "duration" : 33725,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/1-bupsenxanhky01.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_1-bupsenxanhky01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1760,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/2-bupsenxanhky02.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_2-bupsenxanhky02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1776,
@@ -52,15 +52,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/3-bupsenxanhky03.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_3-bupsenxanhky03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1754,
+    "duration" : 1753,
     "title" : "Bupsenxanhky03",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/4-bupsenxanhky04.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_4-bupsenxanhky04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1774,
@@ -68,15 +68,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/5-bupsenxanhky05.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_5-bupsenxanhky05.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1787,
+    "duration" : 1786,
     "title" : "Bupsenxanhky05",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/6-bupsenxanhky06.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_6-bupsenxanhky06.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1794,
@@ -84,7 +84,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/7-bupsenxanhky07.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_7-bupsenxanhky07.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1781,
@@ -92,31 +92,31 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/8-bupsenxanhky08.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_8-bupsenxanhky08.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1793,
+    "duration" : 1792,
     "title" : "Bupsenxanhky08",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/9-bupsenxanhky09.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_9-bupsenxanhky09.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1794,
+    "duration" : 1793,
     "title" : "Bupsenxanhky09",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/10-bupsenxanhky10.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_10-bupsenxanhky10.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1769,
+    "duration" : 1768,
     "title" : "Bupsenxanhky10",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/11-bupsenxanhky11.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_11-bupsenxanhky11.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1766,
@@ -124,7 +124,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/12-bupsenxanhky12.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_12-bupsenxanhky12.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1781,
@@ -132,15 +132,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/13-bupsenxanhky13.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_13-bupsenxanhky13.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1777,
+    "duration" : 1776,
     "title" : "Bupsenxanhky13",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/14-bupsenxanhky14.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_14-bupsenxanhky14.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1767,
@@ -148,15 +148,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/15-bupsenxanhky16.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_15-bupsenxanhky16.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1789,
+    "duration" : 1788,
     "title" : "Bupsenxanhky16",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/16-bupsenxanhky17.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_16-bupsenxanhky17.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1779,
@@ -164,15 +164,15 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/17-bupsenxanhky18.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_17-bupsenxanhky18.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1793,
+    "duration" : 1792,
     "title" : "Bupsenxanhky18",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/18-bupsenxanhky19.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_18-bupsenxanhky19.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1701,
@@ -180,88 +180,88 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/19-bupsenxanhky20.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_19-bupsenxanhky20.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 1799,
+    "duration" : 1798,
     "title" : "Bupsenxanhky20",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/1-bupsenxanhky01.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_1-bupsenxanhky01.mp3",
     "title" : "Bupsenxanhky01",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/2-bupsenxanhky02.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_2-bupsenxanhky02.mp3",
     "title" : "Bupsenxanhky02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/3-bupsenxanhky03.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_3-bupsenxanhky03.mp3",
     "title" : "Bupsenxanhky03",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/4-bupsenxanhky04.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_4-bupsenxanhky04.mp3",
     "title" : "Bupsenxanhky04",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/5-bupsenxanhky05.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_5-bupsenxanhky05.mp3",
     "title" : "Bupsenxanhky05",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/6-bupsenxanhky06.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_6-bupsenxanhky06.mp3",
     "title" : "Bupsenxanhky06",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/7-bupsenxanhky07.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_7-bupsenxanhky07.mp3",
     "title" : "Bupsenxanhky07",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/8-bupsenxanhky08.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_8-bupsenxanhky08.mp3",
     "title" : "Bupsenxanhky08",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/9-bupsenxanhky09.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_9-bupsenxanhky09.mp3",
     "title" : "Bupsenxanhky09",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/10-bupsenxanhky10.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_10-bupsenxanhky10.mp3",
     "title" : "Bupsenxanhky10",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/11-bupsenxanhky11.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_11-bupsenxanhky11.mp3",
     "title" : "Bupsenxanhky11",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/12-bupsenxanhky12.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_12-bupsenxanhky12.mp3",
     "title" : "Bupsenxanhky12",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/13-bupsenxanhky13.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_13-bupsenxanhky13.mp3",
     "title" : "Bupsenxanhky13",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/14-bupsenxanhky14.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_14-bupsenxanhky14.mp3",
     "title" : "Bupsenxanhky14",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/15-bupsenxanhky16.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_15-bupsenxanhky16.mp3",
     "title" : "Bupsenxanhky16",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/16-bupsenxanhky17.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_16-bupsenxanhky17.mp3",
     "title" : "Bupsenxanhky17",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/17-bupsenxanhky18.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_17-bupsenxanhky18.mp3",
     "title" : "Bupsenxanhky18",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/18-bupsenxanhky19.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_18-bupsenxanhky19.mp3",
     "title" : "Bupsenxanhky19",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/274b09f1befa86c7008bfb4f0a007e5d/19-bupsenxanhky20.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/274b09f1befa86c7008bfb4f0a007e5d/cloudflare_19-bupsenxanhky20.mp3",
     "title" : "Bupsenxanhky20",
     "children" : [ ]
   } ],
