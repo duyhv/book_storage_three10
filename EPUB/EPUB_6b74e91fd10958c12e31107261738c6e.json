@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2024-09-20",
-    "duration" : 18245,
+    "published" : "2024-10-24",
+    "duration" : 18242,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,40 +36,40 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/1-p1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6b74e91fd10958c12e31107261738c6e/cloudflare_1-p1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7201,
+    "duration" : 7200,
     "title" : "P1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/2-p2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6b74e91fd10958c12e31107261738c6e/cloudflare_2-p2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7201,
+    "duration" : 7200,
     "title" : "P2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/3-p3-end-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6b74e91fd10958c12e31107261738c6e/cloudflare_3-p3-end.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3843,
+    "duration" : 3842,
     "title" : "P3 (End)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/1-p1.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6b74e91fd10958c12e31107261738c6e/cloudflare_1-p1.mp3",
     "title" : "P1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/2-p2.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6b74e91fd10958c12e31107261738c6e/cloudflare_2-p2.mp3",
     "title" : "P2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/6b74e91fd10958c12e31107261738c6e/3-p3-end-.mp3",
+    "href" : "https://pub-e2e35c8dbf5d4c4398e96593bf4c2679.r2.dev/6b74e91fd10958c12e31107261738c6e/cloudflare_3-p3-end.mp3",
     "title" : "P3 (End)",
     "children" : [ ]
   } ],
